@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb" format="2">
+  <unicode hex="0303"/>
+  <anchor x="-126.10000000000001" y="541.0" name="_top"/>
+  <anchor x="-100.00000000000001" y="700.8000000000001" name="top"/>
+  <outline>
+    <contour>
+      <point x="-229.9" y="599.5" type="curve"/>
+      <point x="-170.6" y="599.5" type="line"/>
+      <point x="-170.6" y="600.4"/>
+      <point x="-170.5" y="605.4"/>
+      <point x="-170.5" y="606.3000000000001" type="curve" smooth="yes"/>
+      <point x="-170.3" y="632.0"/>
+      <point x="-159.5" y="661.8000000000001"/>
+      <point x="-142.0" y="661.8000000000001" type="curve" smooth="yes"/>
+      <point x="-123.9" y="661.8000000000001"/>
+      <point x="-119.4" y="602.9"/>
+      <point x="-71.20000000000002" y="602.9" type="curve" smooth="yes"/>
+      <point x="-24.0" y="602.9"/>
+      <point x="7.699999999999999" y="644.2"/>
+      <point x="16.5" y="723.8000000000001" type="curve" smooth="yes"/>
+      <point x="17.599999999999998" y="733.4"/>
+      <point x="18.7" y="743.2"/>
+      <point x="19.8" y="754.0" type="curve"/>
+      <point x="-39.5" y="754.0" type="line"/>
+      <point x="-39.5" y="752.1999999999999"/>
+      <point x="-40.5" y="745.4"/>
+      <point x="-40.5" y="745.4" type="curve" smooth="yes"/>
+      <point x="-43.400000000000006" y="726.0"/>
+      <point x="-47.900000000000006" y="689.0"/>
+      <point x="-64.5" y="689.0" type="curve" smooth="yes"/>
+      <point x="-84.4" y="689.0"/>
+      <point x="-89.80000000000001" y="747.0"/>
+      <point x="-139.8" y="747.0" type="curve" smooth="yes"/>
+      <point x="-187.89999999999998" y="747.0"/>
+      <point x="-217.8" y="704.8000000000001"/>
+      <point x="-226.60000000000002" y="632.4" type="curve" smooth="yes"/>
+      <point x="-227.7" y="622.8000000000001"/>
+      <point x="-228.8" y="611.2"/>
+    </contour>
+  </outline>
+</glyph>

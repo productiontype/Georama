@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="trademark" format="2">
+  <advance width="616"/>
+  <unicode hex="2122"/>
+  <outline>
+    <contour>
+      <point x="235" y="680" type="line"/>
+      <point x="235" y="700" type="line"/>
+      <point x="21" y="700" type="line"/>
+      <point x="21" y="680" type="line"/>
+      <point x="118" y="680" type="line"/>
+      <point x="118" y="381" type="line"/>
+      <point x="138" y="381" type="line"/>
+      <point x="138" y="680" type="line"/>
+    </contour>
+    <contour>
+      <point x="280" y="381" type="line"/>
+      <point x="300" y="381" type="line"/>
+      <point x="300" y="666" type="line"/>
+      <point x="417" y="502" type="line"/>
+      <point x="429" y="502" type="line"/>
+      <point x="548" y="667" type="line"/>
+      <point x="548" y="381" type="line"/>
+      <point x="568" y="381" type="line"/>
+      <point x="568" y="700" type="line"/>
+      <point x="551" y="700" type="line"/>
+      <point x="424" y="522" type="line"/>
+      <point x="298" y="700" type="line"/>
+      <point x="280" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

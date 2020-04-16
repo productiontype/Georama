@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0307" format="2">
+	<advance width="0"/>
+	<unicode hex="0307"/>
+	<anchor x="-126" y="632" name="top"/>
+	<anchor x="-126" y="530" name="_top"/>
+	<outline>
+		<contour>
+			<point x="-126" y="676" type="curve" smooth="yes"/>
+			<point x="-114" y="676"/>
+			<point x="-112" y="684"/>
+			<point x="-112" y="694" type="curve" smooth="yes"/>
+			<point x="-112" y="704"/>
+			<point x="-114" y="712"/>
+			<point x="-126" y="712" type="curve" smooth="yes"/>
+			<point x="-136" y="712"/>
+			<point x="-140" y="704"/>
+			<point x="-140" y="694" type="curve" smooth="yes"/>
+			<point x="-140" y="684"/>
+			<point x="-136" y="676"/>
+		</contour>
+	</outline>
+</glyph>

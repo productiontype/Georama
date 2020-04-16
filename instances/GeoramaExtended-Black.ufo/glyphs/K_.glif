@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="K" format="2">
+  <advance width="934.5"/>
+  <unicode hex="004B"/>
+  <anchor x="465.0" y="700.0" name="top"/>
+  <anchor x="466.0" y="0.0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="866.9999999999999" y="-10.0" type="curve" smooth="yes"/>
+      <point x="876.9999999999999" y="-10.0"/>
+      <point x="887.9999999999999" y="-9.5"/>
+      <point x="899.4999999999999" y="-8.0" type="curve"/>
+      <point x="899.4999999999999" y="232.0" type="line"/>
+      <point x="890.9999999999999" y="231.5"/>
+      <point x="882.9999999999999" y="231.5"/>
+      <point x="875.4999999999999" y="231.5" type="curve" smooth="yes"/>
+      <point x="815.0" y="232.0"/>
+      <point x="750.5" y="251.0"/>
+      <point x="647.0" y="305.5" type="curve" smooth="yes"/>
+      <point x="316.0" y="480.5" type="line"/>
+      <point x="316.0" y="700.0" type="line"/>
+      <point x="68.49999999999999" y="700.0" type="line"/>
+      <point x="68.49999999999999" y="0.0" type="line"/>
+      <point x="316.0" y="0.0" type="line"/>
+      <point x="316.0" y="212.0" type="line"/>
+      <point x="605.0" y="55.0" type="line" smooth="yes"/>
+      <point x="694.5" y="6.500000000000002"/>
+      <point x="784.0" y="-10.0"/>
+    </contour>
+    <contour>
+      <point x="499.0" y="295.0" type="line"/>
+      <point x="683.5" y="375.5"/>
+      <point x="827.0" y="480.0"/>
+      <point x="904.5" y="606.5" type="curve"/>
+      <point x="710.0" y="711.0" type="line"/>
+      <point x="613.5" y="581.5"/>
+      <point x="459.49999999999994" y="471.5"/>
+      <point x="336.0" y="413.0" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

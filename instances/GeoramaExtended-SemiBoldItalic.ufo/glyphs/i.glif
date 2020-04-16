@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="i" format="2">
+  <advance width="287.565"/>
+  <unicode hex="0069"/>
+  <note>
+Ajuster pts sur points
+8
+</note>
+  <anchor x="99.81094" y="0.0" name="bottom"/>
+  <anchor x="172.56" y="0.0" name="ogonek"/>
+  <anchor x="185.81906" y="541.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="27.689999999999998" y="0.0" type="line"/>
+      <point x="172.56" y="0.0" type="line"/>
+      <point x="257.825" y="541.0" type="line"/>
+      <point x="113.58999999999999" y="541.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="218.935" y="754.0" type="curve" smooth="yes"/>
+      <point x="150.855" y="754.0"/>
+      <point x="120.29499999999999" y="725.9"/>
+      <point x="119.575" y="669.975" type="curve" smooth="yes"/>
+      <point x="119.44" y="635.6150000000001"/>
+      <point x="143.62" y="617.535"/>
+      <point x="195.285" y="617.535" type="curve" smooth="yes"/>
+      <point x="254.325" y="617.535"/>
+      <point x="293.855" y="640.5749999999999"/>
+      <point x="294.89000000000004" y="702.4250000000001" type="curve" smooth="yes"/>
+      <point x="295.025" y="736.0849999999999"/>
+      <point x="271.625" y="754.0"/>
+    </contour>
+  </outline>
+</glyph>

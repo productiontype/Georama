@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="c.sc" format="2">
+  <advance width="558"/>
+  <anchor x="294" y="0" name="bottom"/>
+  <anchor x="385" y="616" name="top"/>
+  <outline>
+    <contour>
+      <point x="41" y="222" type="curve" smooth="yes"/>
+      <point x="41" y="59"/>
+      <point x="131" y="-10"/>
+      <point x="290" y="-10" type="curve" smooth="yes"/>
+      <point x="387" y="-10"/>
+      <point x="444" y="4"/>
+      <point x="495" y="21" type="curve"/>
+      <point x="479" y="107" type="line"/>
+      <point x="430" y="93"/>
+      <point x="387" y="83"/>
+      <point x="325" y="83" type="curve" smooth="yes"/>
+      <point x="221" y="83"/>
+      <point x="163" y="128"/>
+      <point x="163" y="224" type="curve" smooth="yes"/>
+      <point x="163" y="407"/>
+      <point x="264" y="538"/>
+      <point x="396" y="538" type="curve" smooth="yes"/>
+      <point x="442" y="538"/>
+      <point x="482" y="535"/>
+      <point x="533" y="521" type="curve"/>
+      <point x="562" y="608" type="line"/>
+      <point x="512" y="622"/>
+      <point x="466" y="629"/>
+      <point x="397" y="629" type="curve" smooth="yes"/>
+      <point x="186" y="629"/>
+      <point x="41" y="465"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>o.sc</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ldot.sc" format="2">
+  <advance width="261.5"/>
+  <outline>
+    <contour>
+      <point x="183.35" y="317.9" type="curve" smooth="yes"/>
+      <point x="182.45" y="293.45"/>
+      <point x="190.6" y="283.3"/>
+      <point x="214.15" y="283.3" type="curve" smooth="yes"/>
+      <point x="249.25" y="283.3"/>
+      <point x="258.5" y="317.3"/>
+      <point x="259.4" y="347.05" type="curve" smooth="yes"/>
+      <point x="260.3" y="371.05"/>
+      <point x="252.60000000000002" y="381.65"/>
+      <point x="229.05" y="381.65" type="curve" smooth="yes"/>
+      <point x="193.95" y="381.65"/>
+      <point x="184.25" y="348.2"/>
+    </contour>
+    <component base="l.sc"/>
+  </outline>
+</glyph>

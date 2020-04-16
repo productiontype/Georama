@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lira" format="2">
+  <advance width="573.5720000000001"/>
+  <unicode hex="20A4"/>
+  <outline>
+    <contour>
+      <point x="73.884" y="0.0" type="line"/>
+      <point x="526.348" y="0.0" type="line"/>
+      <point x="526.348" y="34.22" type="line"/>
+      <point x="119.42" y="34.22" type="line"/>
+      <point x="188.116" y="110.64"/>
+      <point x="222.23200000000003" y="160.85600000000002"/>
+      <point x="222.23200000000003" y="240.108" type="curve" smooth="yes"/>
+      <point x="222.23200000000003" y="344.11600000000004"/>
+      <point x="147.916" y="401.18"/>
+      <point x="147.916" y="507.5679999999999" type="curve" smooth="yes"/>
+      <point x="147.916" y="622.7599999999999"/>
+      <point x="222.54399999999998" y="674.52"/>
+      <point x="331.21200000000005" y="674.52" type="curve" smooth="yes"/>
+      <point x="377.604" y="674.52"/>
+      <point x="448.74" y="665.3720000000001"/>
+      <point x="496.676" y="653.208" type="curve"/>
+      <point x="504.17999999999995" y="684.56" type="line"/>
+      <point x="462.692" y="698.984"/>
+      <point x="380.524" y="710.0"/>
+      <point x="327.972" y="710.0" type="curve" smooth="yes"/>
+      <point x="186.996" y="710.0"/>
+      <point x="109.196" y="632.524"/>
+      <point x="109.196" y="513.54" type="curve" smooth="yes"/>
+      <point x="109.196" y="394.47200000000004"/>
+      <point x="185.132" y="337.8"/>
+      <point x="185.132" y="238.552" type="curve" smooth="yes"/>
+      <point x="185.132" y="163.596"/>
+      <point x="153.82" y="120.612"/>
+      <point x="73.884" y="30.8" type="curve"/>
+    </contour>
+    <contour>
+      <point x="61.44" y="408.6839999999999" type="line"/>
+      <point x="431.72" y="408.6839999999999" type="line"/>
+      <point x="431.72" y="437.6839999999999" type="line"/>
+      <point x="61.44" y="437.6839999999999" type="line"/>
+    </contour>
+    <contour>
+      <point x="61.44" y="287.78399999999993" type="line"/>
+      <point x="431.72" y="287.78399999999993" type="line"/>
+      <point x="431.72" y="316.784" type="line"/>
+      <point x="61.44" y="316.784" type="line"/>
+    </contour>
+  </outline>
+</glyph>

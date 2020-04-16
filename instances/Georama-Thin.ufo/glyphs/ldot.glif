@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ldot" format="2">
+  <advance width="223.4"/>
+  <unicode hex="0140"/>
+  <outline>
+    <contour>
+      <point x="200.2" y="339.6" type="curve" smooth="yes"/>
+      <point x="215.0" y="339.6"/>
+      <point x="215.4" y="340.6"/>
+      <point x="215.4" y="356.6" type="curve" smooth="yes"/>
+      <point x="215.4" y="372.6"/>
+      <point x="215.0" y="373.6"/>
+      <point x="200.2" y="373.6" type="curve" smooth="yes"/>
+      <point x="185.4" y="373.6"/>
+      <point x="185.0" y="372.6"/>
+      <point x="185.0" y="356.6" type="curve" smooth="yes"/>
+      <point x="185.0" y="340.6"/>
+      <point x="186.4" y="339.6"/>
+    </contour>
+    <component base="l"/>
+  </outline>
+</glyph>

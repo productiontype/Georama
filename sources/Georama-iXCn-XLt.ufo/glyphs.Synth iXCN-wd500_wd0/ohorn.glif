@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohorn" format="2">
+  <advance width="320"/>
+  <unicode hex="01A1"/>
+  <anchor x="180" y="540" name="top"/>
+  <outline>
+    <component base="o"/>
+    <component base="uni031B" xOffset="332" yOffset="-10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

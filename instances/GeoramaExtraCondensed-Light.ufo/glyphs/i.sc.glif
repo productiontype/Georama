@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="i.sc" format="2">
+  <advance width="127.2"/>
+  <anchor x="87.4" y="0.0" name="ogonek"/>
+  <anchor x="63.6" y="0.0" name="bottom"/>
+  <anchor x="63.6" y="605.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="39.0" y="0.0" type="line"/>
+      <point x="88.2" y="0.0" type="line"/>
+      <point x="88.2" y="617.0" type="line"/>
+      <point x="39.0" y="617.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

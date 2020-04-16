@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordfeminine" format="2">
+  <advance width="249.0"/>
+  <unicode hex="00AA"/>
+  <outline>
+    <contour>
+      <point x="24.6" y="259.3" type="line"/>
+      <point x="223.5" y="259.3" type="line"/>
+      <point x="233.5" y="324.3" type="line"/>
+      <point x="34.6" y="324.3" type="line"/>
+    </contour>
+    <component base="a.superior" xOffset="8.6"/>
+  </outline>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yen.tosf" format="2">
+  <advance width="564"/>
+  <outline>
+    <contour>
+      <point x="111" y="282" type="line"/>
+      <point x="276" y="282" type="line"/>
+      <point x="276" y="161" type="line"/>
+      <point x="111" y="161" type="line"/>
+      <point x="111" y="141" type="line"/>
+      <point x="276" y="141" type="line"/>
+      <point x="276" y="0" type="line"/>
+      <point x="296" y="0" type="line"/>
+      <point x="296" y="141" type="line"/>
+      <point x="462" y="141" type="line"/>
+      <point x="462" y="161" type="line"/>
+      <point x="296" y="161" type="line"/>
+      <point x="296" y="282" type="line"/>
+      <point x="462" y="282" type="line"/>
+      <point x="462" y="302" type="line"/>
+      <point x="296" y="302" type="line"/>
+      <point x="504" y="528" type="line"/>
+      <point x="487" y="538" type="line"/>
+      <point x="286" y="317" type="line"/>
+      <point x="76" y="538" type="line"/>
+      <point x="59" y="528" type="line"/>
+      <point x="276" y="302" type="line"/>
+      <point x="111" y="302" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

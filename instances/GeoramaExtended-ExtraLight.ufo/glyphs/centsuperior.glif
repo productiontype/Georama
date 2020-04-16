@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="centsuperior" format="2">
+  <advance width="416.7779999999999"/>
+  <outline>
+    <contour>
+      <point x="216.79" y="360.906" type="curve" smooth="yes"/>
+      <point x="274.4" y="360.906"/>
+      <point x="336.41299999999995" y="371.337"/>
+      <point x="362.462" y="377.704" type="curve"/>
+      <point x="357.09299999999996" y="401.48" type="line"/>
+      <point x="334.30499999999995" y="396.374"/>
+      <point x="277.57899999999995" y="386.94"/>
+      <point x="211.129" y="386.94" type="curve" smooth="yes"/>
+      <point x="131.718" y="386.94"/>
+      <point x="81.769" y="432.23400000000004"/>
+      <point x="81.769" y="511.19500000000005" type="curve" smooth="yes"/>
+      <point x="81.769" y="608.847"/>
+      <point x="142.07899999999998" y="653.003"/>
+      <point x="231.006" y="653.003" type="curve" smooth="yes"/>
+      <point x="272.037" y="653.003"/>
+      <point x="312.22999999999996" y="645.417"/>
+      <point x="350.00199999999995" y="636.907" type="curve"/>
+      <point x="356.082" y="662.206" type="line"/>
+      <point x="317.005" y="670.5959999999999"/>
+      <point x="273.118" y="678.316"/>
+      <point x="231.792" y="678.316" type="curve" smooth="yes"/>
+      <point x="117.91799999999999" y="678.316"/>
+      <point x="53.34299999999999" y="616.725"/>
+      <point x="53.34299999999999" y="510.92499999999995" type="curve" smooth="yes"/>
+      <point x="53.34299999999999" y="410.882"/>
+      <point x="111.32499999999999" y="360.906"/>
+    </contour>
+    <contour>
+      <point x="203.37199999999996" y="307.27" type="line"/>
+      <point x="228.845" y="307.27" type="line"/>
+      <point x="228.845" y="366.645" type="line"/>
+      <point x="203.37199999999996" y="366.878" type="line"/>
+    </contour>
+    <contour>
+      <point x="203.37199999999996" y="670.945" type="line"/>
+      <point x="228.845" y="673.058" type="line"/>
+      <point x="228.845" y="732.262" type="line"/>
+      <point x="203.37199999999996" y="732.262" type="line"/>
+    </contour>
+  </outline>
+</glyph>

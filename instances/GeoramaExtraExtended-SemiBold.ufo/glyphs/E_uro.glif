@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Euro" format="2">
+  <advance width="1042.8"/>
+  <unicode hex="20AC"/>
+  <outline>
+    <contour>
+      <point x="174.9" y="347.7" type="curve" smooth="yes"/>
+      <point x="174.9" y="76.6"/>
+      <point x="383.00000000000006" y="-10.0"/>
+      <point x="665.5" y="-10.0" type="curve" smooth="yes"/>
+      <point x="776.5999999999999" y="-10.0"/>
+      <point x="866.0" y="1.3000000000000003"/>
+      <point x="949.5" y="21.500000000000004" type="curve"/>
+      <point x="920.5" y="139.1" type="line"/>
+      <point x="853.3" y="126.60000000000002"/>
+      <point x="783.2" y="121.5"/>
+      <point x="709.4" y="121.5" type="curve" smooth="yes"/>
+      <point x="469.9000000000001" y="121.5"/>
+      <point x="351.3" y="173.0"/>
+      <point x="351.3" y="347.7" type="curve" smooth="yes"/>
+      <point x="351.3" y="533.5999999999999"/>
+      <point x="474.3" y="576.1999999999998"/>
+      <point x="709.5" y="576.1999999999998" type="curve" smooth="yes"/>
+      <point x="782.0" y="576.1999999999998"/>
+      <point x="849.4" y="570.3000000000001"/>
+      <point x="916.5" y="557.9000000000001" type="curve"/>
+      <point x="940.1999999999999" y="679.6999999999999" type="line"/>
+      <point x="875.6" y="697.5"/>
+      <point x="800.5" y="710.0"/>
+      <point x="688.5" y="710.0" type="curve" smooth="yes"/>
+      <point x="367.59999999999997" y="710.0"/>
+      <point x="174.9" y="611.0999999999999"/>
+    </contour>
+    <contour>
+      <point x="789.9" y="379.50000000000006" type="line"/>
+      <point x="789.9" y="460.6" type="line"/>
+      <point x="91.30000000000001" y="460.6" type="line"/>
+      <point x="91.30000000000001" y="379.50000000000006" type="line"/>
+    </contour>
+    <contour>
+      <point x="789.9" y="236.10000000000002" type="line"/>
+      <point x="789.9" y="318.09999999999997" type="line"/>
+      <point x="91.30000000000001" y="318.09999999999997" type="line"/>
+      <point x="91.30000000000001" y="236.10000000000002" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0328" format="2">
+  <unicode hex="0328"/>
+  <anchor x="-203.312" y="0.0" name="_ogonek"/>
+  <outline>
+    <contour>
+      <point x="-296.848" y="13.752000000000002" type="line"/>
+      <point x="-347.376" y="-25.147999999999996"/>
+      <point x="-384.832" y="-74.848"/>
+      <point x="-384.832" y="-129.29600000000002" type="curve" smooth="yes"/>
+      <point x="-384.832" y="-185.948"/>
+      <point x="-346.196" y="-220.0"/>
+      <point x="-282.504" y="-220.0" type="curve" smooth="yes"/>
+      <point x="-259.908" y="-220.0"/>
+      <point x="-238.16799999999998" y="-214.568"/>
+      <point x="-217.70000000000002" y="-206.708" type="curve"/>
+      <point x="-205.36" y="-88.21999999999998" type="line"/>
+      <point x="-208.332" y="-89.204"/>
+      <point x="-215.61200000000002" y="-91.06000000000002"/>
+      <point x="-223.74800000000002" y="-91.06000000000002" type="curve" smooth="yes"/>
+      <point x="-237.87599999999998" y="-91.06000000000002"/>
+      <point x="-245.432" y="-82.932"/>
+      <point x="-245.432" y="-69.688" type="curve" smooth="yes"/>
+      <point x="-245.432" y="-45.18400000000001"/>
+      <point x="-228.484" y="-17.147999999999996"/>
+      <point x="-203.312" y="0.0" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

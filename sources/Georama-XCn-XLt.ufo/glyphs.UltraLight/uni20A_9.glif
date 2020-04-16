@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni20A9" format="2">
+	<advance width="564"/>
+	<unicode hex="20A9"/>
+	<outline>
+		<contour>
+			<point x="142" y="0" type="line"/>
+			<point x="160" y="0" type="line"/>
+			<point x="282" y="648" type="line"/>
+			<point x="405" y="0" type="line"/>
+			<point x="422" y="0" type="line"/>
+			<point x="544" y="699" type="line"/>
+			<point x="525" y="702" type="line"/>
+			<point x="415" y="54" type="line"/>
+			<point x="294" y="685" type="line"/>
+			<point x="270" y="685" type="line"/>
+			<point x="152" y="52" type="line"/>
+			<point x="40" y="702" type="line"/>
+			<point x="20" y="698" type="line"/>
+		</contour>
+		<contour>
+			<point x="7" y="338" type="line"/>
+			<point x="90" y="338" type="line"/>
+			<point x="88" y="356" type="line"/>
+			<point x="7" y="356" type="line"/>
+		</contour>
+		<contour>
+			<point x="474" y="338" type="line"/>
+			<point x="557" y="338" type="line"/>
+			<point x="557" y="356" type="line"/>
+			<point x="478" y="356" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.04,0.57,0.04,1</string>
+		</dict>
+	</lib>
+</glyph>

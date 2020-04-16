@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Idotaccent" format="2">
+  <advance width="198.748"/>
+  <unicode hex="0130"/>
+  <outline>
+    <contour>
+      <point x="99.89" y="772.6659999999999" type="curve" smooth="yes"/>
+      <point x="141.29399999999998" y="772.6659999999999"/>
+      <point x="157.404" y="789.232"/>
+      <point x="157.404" y="829.656" type="curve" smooth="yes"/>
+      <point x="157.404" y="870.768"/>
+      <point x="140.606" y="886.99"/>
+      <point x="99.89" y="886.99" type="curve" smooth="yes"/>
+      <point x="58.83" y="886.99"/>
+      <point x="42.032000000000004" y="870.768"/>
+      <point x="42.032000000000004" y="829.656" type="curve" smooth="yes"/>
+      <point x="42.032000000000004" y="788.888"/>
+      <point x="59.400000000000006" y="772.6659999999999"/>
+    </contour>
+    <component base="I"/>
+  </outline>
+</glyph>

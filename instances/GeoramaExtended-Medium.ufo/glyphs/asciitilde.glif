@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asciitilde" format="2">
+  <advance width="576.272"/>
+  <unicode hex="007E"/>
+  <outline>
+    <contour>
+      <point x="512.345" y="246.639" type="curve"/>
+      <point x="512.345" y="342.62" type="line"/>
+      <point x="486.07800000000003" y="318.369"/>
+      <point x="455.784" y="300.77"/>
+      <point x="414.193" y="300.77" type="curve" smooth="yes"/>
+      <point x="311.604" y="300.77"/>
+      <point x="254.948" y="395.699"/>
+      <point x="163.534" y="395.699" type="curve" smooth="yes"/>
+      <point x="112.754" y="395.699"/>
+      <point x="81.497" y="371.62199999999996"/>
+      <point x="64.399" y="357.09799999999996" type="curve"/>
+      <point x="64.399" y="260.718" type="line"/>
+      <point x="88.76899999999999" y="280.172"/>
+      <point x="115.81899999999999" y="300.96500000000003"/>
+      <point x="160.85000000000002" y="300.96500000000003" type="curve" smooth="yes"/>
+      <point x="250.502" y="300.96500000000003"/>
+      <point x="310.941" y="205.735"/>
+      <point x="415.121" y="205.735" type="curve" smooth="yes"/>
+      <point x="456.42" y="205.735"/>
+      <point x="488.723" y="224.50400000000002"/>
+    </contour>
+  </outline>
+</glyph>

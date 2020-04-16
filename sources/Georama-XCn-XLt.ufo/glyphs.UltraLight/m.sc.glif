@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="m.sc" format="2">
+	<advance width="709"/>
+	<outline>
+		<contour>
+			<point x="85" y="0" type="line"/>
+			<point x="105" y="0" type="line"/>
+			<point x="105" y="585" type="line"/>
+			<point x="349" y="247" type="line"/>
+			<point x="360" y="247" type="line"/>
+			<point x="604" y="585" type="line"/>
+			<point x="604" y="0" type="line"/>
+			<point x="624" y="0" type="line"/>
+			<point x="624" y="615" type="line"/>
+			<point x="603" y="615" type="line"/>
+			<point x="355" y="271" type="line"/>
+			<point x="108" y="615" type="line"/>
+			<point x="85" y="615" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>h.sc</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>h.sc</string>
+			<key>public.markColor</key>
+			<string>0.04,0.57,0.04,1</string>
+		</dict>
+	</lib>
+</glyph>

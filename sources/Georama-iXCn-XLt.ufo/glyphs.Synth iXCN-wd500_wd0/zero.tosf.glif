@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.tosf" format="2">
+  <advance width="335"/>
+  <outline>
+    <contour>
+      <point x="131" y="-10" type="curve" smooth="yes"/>
+      <point x="271" y="-10"/>
+      <point x="321" y="233"/>
+      <point x="321" y="410" type="curve" smooth="yes"/>
+      <point x="321" y="507"/>
+      <point x="285" y="551"/>
+      <point x="202" y="551" type="curve" smooth="yes"/>
+      <point x="62" y="551"/>
+      <point x="12" y="308"/>
+      <point x="12" y="131" type="curve" smooth="yes"/>
+      <point x="12" y="34"/>
+      <point x="48" y="-10"/>
+    </contour>
+    <contour>
+      <point x="135" y="76" type="curve" smooth="yes"/>
+      <point x="114" y="76"/>
+      <point x="101" y="89"/>
+      <point x="101" y="120" type="curve" smooth="yes"/>
+      <point x="101" y="218"/>
+      <point x="140" y="465"/>
+      <point x="198" y="465" type="curve" smooth="yes"/>
+      <point x="219" y="465"/>
+      <point x="232" y="452"/>
+      <point x="232" y="421" type="curve" smooth="yes"/>
+      <point x="232" y="323"/>
+      <point x="193" y="76"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

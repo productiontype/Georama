@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0237.short" format="2">
+  <advance width="285.80999999999995"/>
+  <note>
+idem /i
+12
+</note>
+  <anchor x="-13.200000000000001" y="-213.01" name="bottom"/>
+  <anchor x="191.12972399999998" y="538.6" name="top"/>
+  <outline>
+    <contour>
+      <point x="249.93699999999995" y="538.6" type="line"/>
+      <point x="132.59599999999998" y="538.6" type="line"/>
+      <point x="43.75599999999999" y="-24.032000000000004" type="line" smooth="yes"/>
+      <point x="33.238" y="-91.05400000000002"/>
+      <point x="14.801" y="-127.191"/>
+      <point x="-30.432999999999996" y="-127.191" type="curve" smooth="yes"/>
+      <point x="-41.26500000000001" y="-127.191"/>
+      <point x="-56.312000000000005" y="-125.79200000000002"/>
+      <point x="-71.57499999999999" y="-120.15899999999998" type="curve"/>
+      <point x="-94.249" y="-210.04399999999998" type="line"/>
+      <point x="-66.42699999999999" y="-217.299"/>
+      <point x="-31.399000000000004" y="-220.0"/>
+      <point x="-14.811000000000003" y="-220.0" type="curve" smooth="yes"/>
+      <point x="94.04599999999999" y="-220.0"/>
+      <point x="141.055" y="-148.583"/>
+      <point x="161.85999999999999" y="-16.347" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

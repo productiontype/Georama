@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two.tosf" format="2">
+  <advance width="619"/>
+  <outline>
+    <contour>
+      <point x="53" y="85" type="curve"/>
+      <point x="43" y="0" type="line"/>
+      <point x="505" y="0" type="line"/>
+      <point x="521" y="100" type="line"/>
+      <point x="222" y="100" type="line"/>
+      <point x="378" y="207"/>
+      <point x="500" y="299"/>
+      <point x="500" y="405" type="curve" smooth="yes"/>
+      <point x="500" y="505"/>
+      <point x="430" y="550"/>
+      <point x="313" y="550" type="curve" smooth="yes"/>
+      <point x="249" y="550"/>
+      <point x="180" y="534"/>
+      <point x="108" y="496" type="curve"/>
+      <point x="139" y="407" type="line"/>
+      <point x="188" y="430"/>
+      <point x="240" y="447"/>
+      <point x="290" y="447" type="curve" smooth="yes"/>
+      <point x="350" y="447"/>
+      <point x="382" y="424"/>
+      <point x="382" y="379" type="curve" smooth="yes"/>
+      <point x="382" y="304"/>
+      <point x="286" y="257"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

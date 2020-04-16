@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Euro" format="2">
+  <advance width="450.324"/>
+  <unicode hex="20AC"/>
+  <outline>
+    <contour>
+      <point x="89.92999999999999" y="191.89" type="curve" smooth="yes"/>
+      <point x="89.92999999999999" y="42.73800000000001"/>
+      <point x="150.714" y="-10.0"/>
+      <point x="262.856" y="-10.0" type="curve" smooth="yes"/>
+      <point x="299.238" y="-10.0"/>
+      <point x="333.058" y="-6.999999999999999"/>
+      <point x="372.37" y="7.346" type="curve"/>
+      <point x="370.52199999999993" y="72.156" type="line"/>
+      <point x="339.71999999999997" y="61.833999999999996"/>
+      <point x="314.86600000000004" y="58.67600000000001"/>
+      <point x="282.608" y="58.67600000000001" type="curve" smooth="yes"/>
+      <point x="202.604" y="58.67600000000001"/>
+      <point x="158.22" y="94.41799999999999"/>
+      <point x="158.22" y="203.892" type="curve" smooth="yes"/>
+      <point x="158.22" y="444.326"/>
+      <point x="242.61599999999999" y="639.47"/>
+      <point x="373.3719999999999" y="639.47" type="curve" smooth="yes"/>
+      <point x="402.904" y="639.47"/>
+      <point x="428.32" y="634.616"/>
+      <point x="454.49" y="625.768" type="curve"/>
+      <point x="477.53400000000005" y="691.882" type="line"/>
+      <point x="447.88999999999993" y="704.1339999999999"/>
+      <point x="411.736" y="710.0"/>
+      <point x="371.19599999999997" y="710.0" type="curve" smooth="yes"/>
+      <point x="179.022" y="710.0"/>
+      <point x="89.92999999999999" y="431.662"/>
+    </contour>
+    <contour>
+      <point x="354.996" y="394.17" type="line"/>
+      <point x="363.57" y="443.316" type="line"/>
+      <point x="67.234" y="443.316" type="line"/>
+      <point x="59.28" y="394.17" type="line"/>
+    </contour>
+    <contour>
+      <point x="332.71599999999995" y="252.338" type="line"/>
+      <point x="340.66999999999996" y="301.48400000000004" type="line"/>
+      <point x="44.644" y="301.48400000000004" type="line"/>
+      <point x="36.38" y="252.338" type="line"/>
+    </contour>
+  </outline>
+</glyph>

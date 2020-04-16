@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0163.sc" format="2">
+  <advance width="366"/>
+  <outline>
+    <contour>
+      <point x="18" y="-209" type="line"/>
+      <point x="36" y="-216"/>
+      <point x="54" y="-220"/>
+      <point x="80" y="-220" type="curve" smooth="yes"/>
+      <point x="160" y="-220"/>
+      <point x="214" y="-160"/>
+      <point x="214" y="-70" type="curve" smooth="yes"/>
+      <point x="214" y="-41"/>
+      <point x="211" y="-14"/>
+      <point x="202" y="8" type="curve"/>
+      <point x="106" y="7" type="line"/>
+      <point x="112" y="-10"/>
+      <point x="115" y="-21"/>
+      <point x="115" y="-45" type="curve" smooth="yes"/>
+      <point x="115" y="-82"/>
+      <point x="93" y="-96"/>
+      <point x="65" y="-96" type="curve" smooth="yes"/>
+      <point x="54" y="-96"/>
+      <point x="48" y="-95"/>
+      <point x="38" y="-92" type="curve"/>
+    </contour>
+    <component base="t.sc"/>
+  </outline>
+</glyph>

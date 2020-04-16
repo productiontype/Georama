@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotlessi" format="2">
+  <advance width="174.6"/>
+  <unicode hex="0131"/>
+  <anchor x="43.5" y="0.0" name="bottom"/>
+  <anchor x="103.19999999999999" y="0.0" name="ogonek"/>
+  <anchor x="129.6" y="544.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="103.19999999999999" y="0.0" type="line"/>
+      <point x="189.3" y="544.0" type="line"/>
+      <point x="70.2" y="544.0" type="line"/>
+      <point x="-15.599999999999998" y="0.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

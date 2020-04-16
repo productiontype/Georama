@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="e.sc" format="2">
+  <advance width="879"/>
+  <anchor x="428" y="0" name="bottom"/>
+  <anchor x="794" y="0" name="ogonek"/>
+  <anchor x="512" y="620" name="top"/>
+  <anchor x="93" y="620" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="62" y="0" type="line"/>
+      <point x="794" y="0" type="line"/>
+      <point x="812" y="117" type="line"/>
+      <point x="235" y="117" type="line"/>
+      <point x="259" y="267" type="line"/>
+      <point x="781" y="267" type="line"/>
+      <point x="800" y="384" type="line"/>
+      <point x="276" y="384" type="line"/>
+      <point x="295" y="503" type="line"/>
+      <point x="845" y="503" type="line"/>
+      <point x="867" y="620" type="line"/>
+      <point x="162" y="620" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>h.sc</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

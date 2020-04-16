@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hookabovecomb" format="2">
+  <unicode hex="0309"/>
+  <anchor x="-221.95" y="800.7" name="top"/>
+  <anchor x="-212.95" y="544.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-240.30000000000004" y="593.8999999999999" type="line"/>
+      <point x="-149.9" y="611.6999999999999"/>
+      <point x="-120.05" y="656.6500000000001"/>
+      <point x="-120.05" y="707.3499999999999" type="curve" smooth="yes"/>
+      <point x="-120.05" y="769.2500000000001"/>
+      <point x="-161.2" y="800.55"/>
+      <point x="-221.90000000000003" y="800.55" type="curve" smooth="yes"/>
+      <point x="-251.3" y="800.55"/>
+      <point x="-280.85" y="794.85"/>
+      <point x="-299.20000000000005" y="786.85" type="curve"/>
+      <point x="-289.45000000000005" y="707.3" type="line"/>
+      <point x="-274.54999999999995" y="711.8"/>
+      <point x="-265.45000000000005" y="714.5500000000002"/>
+      <point x="-249.2" y="714.5500000000002" type="curve" smooth="yes"/>
+      <point x="-226.20000000000002" y="714.5500000000002"/>
+      <point x="-213.35" y="704.85"/>
+      <point x="-213.35" y="688.5999999999999" type="curve" smooth="yes"/>
+      <point x="-213.35" y="673.6000000000001"/>
+      <point x="-222.84999999999997" y="663.35"/>
+      <point x="-252.19999999999996" y="655.8" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

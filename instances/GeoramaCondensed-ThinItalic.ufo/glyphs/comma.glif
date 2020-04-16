@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="comma" format="2">
+  <advance width="102.5"/>
+  <unicode hex="002C"/>
+  <outline>
+    <contour>
+      <point x="4.2" y="33.4" type="line"/>
+      <point x="5.5" y="23.0"/>
+      <point x="5.7" y="11.6"/>
+      <point x="5.7" y="1.0999999999999999" type="curve" smooth="yes"/>
+      <point x="5.7" y="-64.5"/>
+      <point x="-29.6" y="-152.6"/>
+      <point x="-78.1" y="-187.5" type="curve"/>
+      <point x="-72.1" y="-202.7" type="line"/>
+      <point x="1.1000000000000005" y="-151.4"/>
+      <point x="24.9" y="-41.1"/>
+      <point x="24.9" y="4.5" type="curve" smooth="yes"/>
+      <point x="24.9" y="16.1"/>
+      <point x="24.6" y="26.7"/>
+      <point x="22.3" y="40.6" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

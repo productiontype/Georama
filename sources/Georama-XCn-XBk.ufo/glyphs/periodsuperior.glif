@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="periodsuperior" format="2">
+  <advance width="120"/>
+  <outline>
+    <contour>
+      <point x="7" y="433" type="curve" smooth="yes"/>
+      <point x="7" y="388"/>
+      <point x="23" y="366"/>
+      <point x="60" y="366" type="curve" smooth="yes"/>
+      <point x="97" y="366"/>
+      <point x="113" y="388"/>
+      <point x="113" y="433" type="curve" smooth="yes"/>
+      <point x="113" y="478"/>
+      <point x="97" y="500"/>
+      <point x="60" y="500" type="curve" smooth="yes"/>
+      <point x="23" y="500"/>
+      <point x="7" y="478"/>
+    </contour>
+  </outline>
+</glyph>

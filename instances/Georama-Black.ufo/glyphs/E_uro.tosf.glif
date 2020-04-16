@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Euro.tosf" format="2">
+  <advance width="672.0"/>
+  <outline>
+    <contour>
+      <point x="99.2" y="273.79999999999995" type="curve" smooth="yes"/>
+      <point x="99.2" y="79.2"/>
+      <point x="202.39999999999998" y="-10.0"/>
+      <point x="421.2" y="-10.0" type="curve" smooth="yes"/>
+      <point x="505.0" y="-10.0"/>
+      <point x="554.0" y="-5.6"/>
+      <point x="624.0" y="13.2" type="curve"/>
+      <point x="594.0" y="140.6" type="line"/>
+      <point x="541.2" y="132.2"/>
+      <point x="503.20000000000005" y="128.8"/>
+      <point x="462.0" y="128.8" type="curve" smooth="yes"/>
+      <point x="352.8" y="128.8"/>
+      <point x="321.79999999999995" y="169.6"/>
+      <point x="321.79999999999995" y="270.0" type="curve" smooth="yes"/>
+      <point x="321.79999999999995" y="384.4"/>
+      <point x="352.2" y="416.59999999999997"/>
+      <point x="469.20000000000005" y="416.59999999999997" type="curve" smooth="yes"/>
+      <point x="504.4" y="416.59999999999997"/>
+      <point x="553.2" y="412.0"/>
+      <point x="593.0000000000001" y="404.79999999999995" type="curve"/>
+      <point x="623.2" y="535.8" type="line"/>
+      <point x="576.6" y="549.6"/>
+      <point x="512.2" y="558.8"/>
+      <point x="425.4" y="558.8" type="curve" smooth="yes"/>
+      <point x="213.8" y="558.8"/>
+      <point x="99.2" y="486.2"/>
+    </contour>
+    <contour>
+      <point x="567.0" y="288.4" type="line"/>
+      <point x="567.0" y="371.4" type="line"/>
+      <point x="50.400000000000006" y="371.4" type="line"/>
+      <point x="50.400000000000006" y="288.4" type="line"/>
+    </contour>
+    <contour>
+      <point x="567.0" y="171.0" type="line"/>
+      <point x="567.0" y="254.0" type="line"/>
+      <point x="50.400000000000006" y="254.0" type="line"/>
+      <point x="50.400000000000006" y="171.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

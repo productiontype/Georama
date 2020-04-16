@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="peseta" format="2">
+  <advance width="407.0"/>
+  <unicode hex="20A7"/>
+  <outline>
+    <contour>
+      <point x="23.0" y="0.0" type="line"/>
+      <point x="42.0" y="0.0" type="line"/>
+      <point x="87.5" y="286.0" type="line"/>
+      <point x="116.0" y="284.5"/>
+      <point x="139.0" y="284.0"/>
+      <point x="179.0" y="284.0" type="curve" smooth="yes"/>
+      <point x="309.0" y="284.0"/>
+      <point x="379.5" y="391.5"/>
+      <point x="380.0" y="553.0" type="curve" smooth="yes"/>
+      <point x="380.5" y="670.5"/>
+      <point x="325.0" y="710.0"/>
+      <point x="237.0" y="710.0" type="curve" smooth="yes"/>
+      <point x="213.0" y="710.0"/>
+      <point x="186.5" y="708.0"/>
+      <point x="134.0" y="703.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="151.0" y="686.0" type="line"/>
+      <point x="184.5" y="689.5"/>
+      <point x="210.5" y="691.0"/>
+      <point x="236.0" y="691.0" type="curve" smooth="yes"/>
+      <point x="315.5" y="691.0"/>
+      <point x="361.0" y="660.5"/>
+      <point x="361.0" y="549.5" type="curve" smooth="yes"/>
+      <point x="361.0" y="405.5"/>
+      <point x="296.5" y="303.0"/>
+      <point x="181.0" y="303.0" type="curve" smooth="yes"/>
+      <point x="153.5" y="303.0"/>
+      <point x="123.5" y="304.5"/>
+      <point x="90.5" y="306.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="44.5" y="487.0" type="line"/>
+      <point x="112.0" y="487.0" type="line"/>
+      <point x="115.0" y="506.0" type="line"/>
+      <point x="47.5" y="506.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="363.5" y="487.0" type="line"/>
+      <point x="432.0" y="487.0" type="line"/>
+      <point x="435.0" y="506.0" type="line"/>
+      <point x="366.5" y="506.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0237.short" format="2">
+  <advance width="227.7"/>
+  <note>
+idem /i
+12
+</note>
+  <anchor x="-15.899999999999999" y="-211.0" name="bottom"/>
+  <anchor x="159.5004" y="550.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="248.79999999999998" y="550.0" type="line"/>
+      <point x="73.69999999999999" y="550.0" type="line"/>
+      <point x="-14.299999999999999" y="2.8000000000000007" type="line" smooth="yes"/>
+      <point x="-21.2" y="-40.0"/>
+      <point x="-30.4" y="-50.1"/>
+      <point x="-49.3" y="-50.1" type="curve" smooth="yes"/>
+      <point x="-52.8" y="-50.1"/>
+      <point x="-57.800000000000004" y="-49.1"/>
+      <point x="-60.4" y="-48.0" type="curve"/>
+      <point x="-97.9" y="-213.5" type="line"/>
+      <point x="-67.0" y="-218.70000000000002"/>
+      <point x="-47.5" y="-220.0"/>
+      <point x="-33.9" y="-220.0" type="curve" smooth="yes"/>
+      <point x="87.5" y="-220.0"/>
+      <point x="136.6" y="-148.10000000000002"/>
+      <point x="162.1" y="12.3" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="q.sc" format="2">
+  <advance width="652.6"/>
+  <outline>
+    <contour>
+      <point x="437.44" y="23.08" type="curve"/>
+      <point x="267.8" y="11.76" type="line"/>
+      <point x="285.52000000000004" y="-130.96"/>
+      <point x="375.44" y="-182.96"/>
+      <point x="470.91999999999996" y="-182.96" type="curve" smooth="yes"/>
+      <point x="499.48" y="-182.96"/>
+      <point x="526.04" y="-179.40000000000003"/>
+      <point x="553.76" y="-170.56000000000003" type="curve"/>
+      <point x="563.52" y="-20.119999999999997" type="line"/>
+      <point x="551.0" y="-24.520000000000014"/>
+      <point x="539.48" y="-27.08"/>
+      <point x="521.8000000000001" y="-27.08" type="curve" smooth="yes"/>
+      <point x="479.04" y="-27.08"/>
+      <point x="447.00000000000006" y="-8.759999999999996"/>
+    </contour>
+    <component base="o.sc"/>
+  </outline>
+</glyph>

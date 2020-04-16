@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Euro.tosf" format="2">
+  <advance width="564"/>
+  <outline>
+    <contour>
+      <point x="128" y="140" type="curve" smooth="yes"/>
+      <point x="128" y="27"/>
+      <point x="203" y="-10"/>
+      <point x="317" y="-10" type="curve" smooth="yes"/>
+      <point x="353" y="-10"/>
+      <point x="404" y="-6"/>
+      <point x="440" y="4" type="curve"/>
+      <point x="438" y="22" type="line"/>
+      <point x="403" y="12"/>
+      <point x="356" y="9"/>
+      <point x="319" y="9" type="curve" smooth="yes"/>
+      <point x="217" y="9"/>
+      <point x="146" y="39"/>
+      <point x="146" y="139" type="curve" smooth="yes"/>
+      <point x="146" y="321"/>
+      <point x="257" y="524"/>
+      <point x="405" y="524" type="curve" smooth="yes"/>
+      <point x="441" y="524"/>
+      <point x="487" y="520"/>
+      <point x="518" y="509" type="curve"/>
+      <point x="525" y="527" type="line"/>
+      <point x="492" y="538"/>
+      <point x="443" y="542"/>
+      <point x="407" y="542" type="curve" smooth="yes"/>
+      <point x="242" y="542"/>
+      <point x="128" y="322"/>
+    </contour>
+    <contour>
+      <point x="438" y="319" type="line"/>
+      <point x="441" y="338" type="line"/>
+      <point x="100" y="338" type="line"/>
+      <point x="96" y="319" type="line"/>
+    </contour>
+    <contour>
+      <point x="410" y="185" type="line"/>
+      <point x="413" y="203" type="line"/>
+      <point x="72" y="203" type="line"/>
+      <point x="68" y="185" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

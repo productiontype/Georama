@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0162" format="2">
+  <advance width="739.9199999999998"/>
+  <unicode hex="0162"/>
+  <anchor x="326.06269" y="0.0" name="_bottom"/>
+  <anchor x="249.83999999999997" y="-220.0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="155.07" y="-202.51000000000002" type="line"/>
+      <point x="188.38" y="-214.5"/>
+      <point x="217.6" y="-220.0"/>
+      <point x="251.73" y="-220.0" type="curve" smooth="yes"/>
+      <point x="344.21999999999997" y="-220.0"/>
+      <point x="420.29999999999995" y="-166.82999999999998"/>
+      <point x="420.29999999999995" y="-69.38000000000001" type="curve" smooth="yes"/>
+      <point x="420.29999999999995" y="-38.49"/>
+      <point x="409.06999999999994" y="-11.530000000000001"/>
+      <point x="391.43" y="7.63" type="curve"/>
+      <point x="257.44" y="6.369999999999999" type="line"/>
+      <point x="276.27" y="-9.83"/>
+      <point x="285.40000000000003" y="-25.970000000000006"/>
+      <point x="285.40000000000003" y="-49.760000000000005" type="curve" smooth="yes"/>
+      <point x="285.40000000000003" y="-92.59"/>
+      <point x="257.47999999999996" y="-109.27000000000002"/>
+      <point x="221.0" y="-109.27000000000002" type="curve" smooth="yes"/>
+      <point x="206.20999999999998" y="-109.27000000000002"/>
+      <point x="189.6" y="-105.36"/>
+      <point x="176.57999999999998" y="-98.54" type="curve"/>
+    </contour>
+    <component base="T"/>
+  </outline>
+</glyph>

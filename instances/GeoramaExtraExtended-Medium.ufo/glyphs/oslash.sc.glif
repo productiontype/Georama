@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oslash.sc" format="2">
+  <advance width="1181.76"/>
+  <anchor x="590.38" y="619.3" name="top"/>
+  <anchor x="591.38" y="0.0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="221.14" y="-13.3" type="line"/>
+      <point x="1103.12" y="632.6" type="line"/>
+      <point x="958.9000000000001" y="632.6" type="line"/>
+      <point x="77.78" y="-13.3" type="line"/>
+    </contour>
+    <contour>
+      <point x="590.24" y="82.24000000000001" type="curve" smooth="yes"/>
+      <point x="411.92" y="82.24000000000001"/>
+      <point x="225.06" y="134.94"/>
+      <point x="225.06" y="310.58" type="curve" smooth="yes"/>
+      <point x="225.06" y="490.06"/>
+      <point x="410.06" y="538.06"/>
+      <point x="590.24" y="538.06" type="curve" smooth="yes"/>
+      <point x="774.0" y="538.06"/>
+      <point x="955.6999999999999" y="485.9"/>
+      <point x="955.6999999999999" y="310.58" type="curve" smooth="yes"/>
+      <point x="955.6999999999999" y="133.26"/>
+      <point x="772.14" y="82.24000000000001"/>
+    </contour>
+    <contour>
+      <point x="590.24" y="-9.0" type="curve" smooth="yes"/>
+      <point x="873.7" y="-9.0"/>
+      <point x="1099.6799999999998" y="70.52000000000001"/>
+      <point x="1099.6799999999998" y="313.71999999999997" type="curve" smooth="yes"/>
+      <point x="1099.6799999999998" y="547.1999999999999"/>
+      <point x="876.3199999999999" y="628.3"/>
+      <point x="590.24" y="628.3" type="curve" smooth="yes"/>
+      <point x="300.88" y="628.3"/>
+      <point x="82.08" y="544.92"/>
+      <point x="82.08" y="311.44000000000005" type="curve" smooth="yes"/>
+      <point x="82.08" y="77.64"/>
+      <point x="310.62" y="-9.0"/>
+    </contour>
+  </outline>
+</glyph>

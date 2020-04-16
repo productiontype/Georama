@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hookabovecomb" format="2">
+  <unicode hex="0309"/>
+  <anchor x="-253" y="550" name="_top"/>
+  <anchor x="-229" y="807" name="top"/>
+  <outline>
+    <contour>
+      <point x="-306" y="587" type="line"/>
+      <point x="-179" y="599"/>
+      <point x="-106" y="638"/>
+      <point x="-106" y="719" type="curve" smooth="yes"/>
+      <point x="-106" y="783"/>
+      <point x="-159" y="810"/>
+      <point x="-242" y="810" type="curve" smooth="yes"/>
+      <point x="-272" y="810"/>
+      <point x="-312" y="804"/>
+      <point x="-333" y="798" type="curve"/>
+      <point x="-348" y="698" type="line"/>
+      <point x="-329" y="701"/>
+      <point x="-315" y="703"/>
+      <point x="-295" y="703" type="curve" smooth="yes"/>
+      <point x="-267" y="703"/>
+      <point x="-252" y="696"/>
+      <point x="-252" y="683" type="curve" smooth="yes"/>
+      <point x="-252" y="666"/>
+      <point x="-269" y="659"/>
+      <point x="-306" y="657" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

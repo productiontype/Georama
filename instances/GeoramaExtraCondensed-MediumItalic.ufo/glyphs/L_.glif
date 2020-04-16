@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="L" format="2">
+  <advance width="251.31"/>
+  <unicode hex="004C"/>
+  <anchor x="100.37" y="0.0" name="bottom"/>
+  <anchor x="131.04797" y="350.0" name="center"/>
+  <anchor x="140.36" y="700.0" name="top"/>
+  <anchor x="234.82" y="700.0" name="topright"/>
+  <outline>
+    <contour>
+      <point x="-10.6" y="0.0" type="line"/>
+      <point x="199.59" y="0.0" type="line"/>
+      <point x="212.05" y="78.77" type="line"/>
+      <point x="82.35" y="78.77" type="line"/>
+      <point x="180.89" y="700.0" type="line"/>
+      <point x="100.4" y="700.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

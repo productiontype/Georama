@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="w" format="2">
+  <advance width="449.5"/>
+  <unicode hex="0077"/>
+  <note>
+15
+</note>
+  <anchor x="195.5" y="0.0" name="bottom"/>
+  <anchor x="258.75" y="530.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="302.5" y="0.0" type="line"/>
+      <point x="431.0" y="380.0"/>
+      <point x="452.25" y="418.25"/>
+      <point x="460.25" y="530.0" type="curve"/>
+      <point x="441.5" y="530.0" type="line"/>
+      <point x="431.5" y="415.25"/>
+      <point x="415.25" y="380.75"/>
+      <point x="296.5" y="33.75" type="curve"/>
+      <point x="267.25" y="477.0" type="line"/>
+      <point x="245.5" y="477.0" type="line"/>
+      <point x="196.5" y="328.5"/>
+      <point x="148.5" y="180.0"/>
+      <point x="99.5" y="31.5" type="curve"/>
+      <point x="67.5" y="531.0" type="line"/>
+      <point x="49.5" y="530.25" type="line"/>
+      <point x="83.75" y="0.0" type="line"/>
+      <point x="105.5" y="0.0" type="line"/>
+      <point x="154.5" y="147.5"/>
+      <point x="204.25" y="295.75"/>
+      <point x="253.25" y="443.25" type="curve"/>
+      <point x="280.75" y="0.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

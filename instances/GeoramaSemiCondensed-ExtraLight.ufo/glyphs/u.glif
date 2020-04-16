@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u" format="2">
+  <advance width="401.83599999999996"/>
+  <unicode hex="0075"/>
+  <anchor x="400.054" y="0.8359999999999999" name="ogonek"/>
+  <anchor x="195.156" y="531.8" name="top"/>
+  <anchor x="333.776" y="531.8" name="topright"/>
+  <anchor x="201.33599999999998" y="0.0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="165.30599999999998" y="-10.0" type="curve" smooth="yes"/>
+      <point x="215.24800000000005" y="-10.0"/>
+      <point x="258.902" y="7.236000000000001"/>
+      <point x="302.194" y="32.394" type="curve"/>
+      <point x="308.14" y="4.521999999999999"/>
+      <point x="330.35" y="-10.0"/>
+      <point x="355.652" y="-10.0" type="curve" smooth="yes"/>
+      <point x="370.144" y="-10.0"/>
+      <point x="384.392" y="-6.755999999999999"/>
+      <point x="400.054" y="0.8359999999999999" type="curve"/>
+      <point x="392.64200000000005" y="30.596" type="line"/>
+      <point x="382.982" y="25.901999999999997"/>
+      <point x="373.50600000000003" y="23.810000000000002"/>
+      <point x="364.32" y="23.810000000000002" type="curve" smooth="yes"/>
+      <point x="346.05600000000004" y="23.810000000000002"/>
+      <point x="333.776" y="35.38"/>
+      <point x="333.776" y="68.392" type="curve" smooth="yes"/>
+      <point x="333.776" y="531.8" type="line"/>
+      <point x="297.576" y="531.8" type="line"/>
+      <point x="297.576" y="62.37400000000001" type="line"/>
+      <point x="259.988" y="39.34"/>
+      <point x="218.538" y="22.926"/>
+      <point x="177.854" y="22.926" type="curve" smooth="yes"/>
+      <point x="121.15599999999999" y="22.926"/>
+      <point x="93.068" y="55.752"/>
+      <point x="93.068" y="111.51" type="curve" smooth="yes"/>
+      <point x="93.068" y="531.8" type="line"/>
+      <point x="56.796" y="531.8" type="line"/>
+      <point x="56.796" y="107.65799999999999" type="line" smooth="yes"/>
+      <point x="56.796" y="25.68"/>
+      <point x="101.21600000000001" y="-10.0"/>
+    </contour>
+  </outline>
+</glyph>

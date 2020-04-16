@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="florin" format="2">
+  <advance width="610.212"/>
+  <unicode hex="0192"/>
+  <outline>
+    <contour>
+      <point x="106.634" y="390.218" type="line"/>
+      <point x="94.432" y="315.26" type="line"/>
+      <point x="178.08" y="315.26" type="line"/>
+      <point x="94.99" y="-210.0" type="line"/>
+      <point x="198.848" y="-210.0" type="line"/>
+      <point x="281.76599999999996" y="315.26" type="line"/>
+      <point x="480.66599999999994" y="315.26" type="line"/>
+      <point x="493.38399999999996" y="395.464" type="line"/>
+      <point x="294.656" y="395.464" type="line"/>
+      <point x="301.942" y="439.01200000000006" type="line" smooth="yes"/>
+      <point x="322.54" y="562.068"/>
+      <point x="371.97400000000005" y="615.6320000000001"/>
+      <point x="447.93" y="615.6320000000001" type="curve" smooth="yes"/>
+      <point x="479.53000000000003" y="615.6320000000001"/>
+      <point x="512.86" y="610.3459999999999"/>
+      <point x="549.7500000000001" y="599.598" type="curve"/>
+      <point x="578.966" y="685.712" type="line"/>
+      <point x="539.2339999999999" y="701.3599999999999"/>
+      <point x="490.97200000000004" y="710.0"/>
+      <point x="442.606" y="710.0" type="curve" smooth="yes"/>
+      <point x="312.906" y="710.0"/>
+      <point x="228.422" y="627.3979999999999"/>
+      <point x="200.32" y="452.884" type="curve" smooth="yes"/>
+      <point x="190.97" y="395.464" type="line"/>
+    </contour>
+  </outline>
+</glyph>

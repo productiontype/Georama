@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="K" format="2">
+  <advance width="533"/>
+  <unicode hex="004B"/>
+  <anchor x="236" y="0" name="bottom"/>
+  <anchor x="326" y="700" name="top"/>
+  <outline>
+    <contour>
+      <point x="36" y="0" type="line"/>
+      <point x="56" y="0" type="line"/>
+      <point x="166" y="700" type="line"/>
+      <point x="147" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="477" y="-9" type="curve" smooth="yes"/>
+      <point x="481" y="-9"/>
+      <point x="487" y="-9"/>
+      <point x="492" y="-7" type="curve"/>
+      <point x="490" y="11" type="line"/>
+      <point x="487" y="11"/>
+      <point x="484" y="10"/>
+      <point x="480" y="10" type="curve" smooth="yes"/>
+      <point x="445" y="10"/>
+      <point x="423" y="27"/>
+      <point x="369" y="98" type="curve" smooth="yes"/>
+      <point x="114" y="434" type="line"/>
+      <point x="111" y="407" type="line"/>
+      <point x="350" y="88" type="line" smooth="yes"/>
+      <point x="408" y="11"/>
+      <point x="432" y="-9"/>
+    </contour>
+    <contour>
+      <point x="195" y="309" type="line"/>
+      <point x="290" y="372"/>
+      <point x="467" y="514"/>
+      <point x="567" y="702" type="curve"/>
+      <point x="551" y="710" type="line"/>
+      <point x="446" y="521"/>
+      <point x="278" y="386"/>
+      <point x="187" y="325" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>H</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

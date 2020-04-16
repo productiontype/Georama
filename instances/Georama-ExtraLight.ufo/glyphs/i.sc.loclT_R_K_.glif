@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="i.sc.loclTRK" format="2">
+  <advance width="200.944"/>
+  <outline>
+    <contour>
+      <point x="100.508" y="743.226" type="curve" smooth="yes"/>
+      <point x="122.112" y="743.226"/>
+      <point x="126.11200000000001" y="747.5020000000001"/>
+      <point x="126.11200000000001" y="768.596" type="curve" smooth="yes"/>
+      <point x="126.11200000000001" y="789.798"/>
+      <point x="122.00400000000002" y="794.02"/>
+      <point x="100.508" y="794.02" type="curve" smooth="yes"/>
+      <point x="78.95800000000001" y="794.02"/>
+      <point x="74.85000000000001" y="789.798"/>
+      <point x="74.85000000000001" y="768.596" type="curve" smooth="yes"/>
+      <point x="74.85000000000001" y="747.448"/>
+      <point x="79.86800000000001" y="743.226"/>
+    </contour>
+    <component base="i.sc"/>
+  </outline>
+</glyph>

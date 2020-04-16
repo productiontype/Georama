@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kgreenlandic" format="2">
+  <advance width="732.7399999999999"/>
+  <unicode hex="0138"/>
+  <anchor x="364.18" y="547.1999999999999" name="top"/>
+  <anchor x="364.18" y="0.0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="660.44" y="-10.580000000000002" type="curve" smooth="yes"/>
+      <point x="680.4799999999999" y="-10.580000000000002"/>
+      <point x="692.64" y="-9.719999999999997"/>
+      <point x="705.24" y="-7.859999999999999" type="curve"/>
+      <point x="704.32" y="186.34" type="line"/>
+      <point x="696.9600000000002" y="185.84"/>
+      <point x="690.8199999999999" y="185.7"/>
+      <point x="684.24" y="185.7" type="curve" smooth="yes"/>
+      <point x="639.1399999999999" y="185.7"/>
+      <point x="587.4799999999999" y="208.34"/>
+      <point x="466.96" y="289.87999999999994" type="curve" smooth="yes"/>
+      <point x="259.47999999999996" y="430.20000000000005" type="line"/>
+      <point x="259.47999999999996" y="547.1999999999999" type="line"/>
+      <point x="57.819999999999986" y="547.1999999999999" type="line"/>
+      <point x="57.819999999999986" y="0.0" type="line"/>
+      <point x="259.47999999999996" y="0.0" type="line"/>
+      <point x="259.47999999999996" y="197.86" type="line"/>
+      <point x="431.85999999999996" y="83.4" type="line" smooth="yes"/>
+      <point x="551.5799999999999" y="3.7999999999999994"/>
+      <point x="603.66" y="-10.580000000000002"/>
+    </contour>
+    <contour>
+      <point x="415.4599999999999" y="245.38" type="line"/>
+      <point x="516.5600000000001" y="317.15999999999997"/>
+      <point x="653.8" y="426.02"/>
+      <point x="697.3799999999999" y="539.1600000000001" type="curve"/>
+      <point x="479.34000000000003" y="549.88" type="line"/>
+      <point x="447.64000000000004" y="467.16"/>
+      <point x="369.3999999999999" y="404.8"/>
+      <point x="235.3" y="305.28" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

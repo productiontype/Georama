@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0259.sc" format="2">
+  <advance width="927"/>
+  <outline>
+    <contour>
+      <point x="372" y="-10" type="curve" smooth="yes"/>
+      <point x="666" y="-10"/>
+      <point x="873" y="144"/>
+      <point x="873" y="362" type="curve" smooth="yes"/>
+      <point x="873" y="530"/>
+      <point x="732" y="630"/>
+      <point x="496" y="630" type="curve" smooth="yes"/>
+      <point x="373" y="630"/>
+      <point x="228" y="610"/>
+      <point x="102" y="574" type="curve"/>
+      <point x="117" y="470" type="line"/>
+      <point x="228" y="506"/>
+      <point x="353" y="525"/>
+      <point x="445" y="525" type="curve" smooth="yes"/>
+      <point x="641" y="525"/>
+      <point x="723" y="477"/>
+      <point x="724" y="363" type="curve" smooth="yes"/>
+      <point x="725" y="206"/>
+      <point x="578" y="93"/>
+      <point x="387" y="93" type="curve" smooth="yes"/>
+      <point x="278" y="93"/>
+      <point x="211" y="123"/>
+      <point x="211" y="179" type="curve" smooth="yes"/>
+      <point x="211" y="302"/>
+      <point x="527" y="299"/>
+      <point x="730" y="246" type="curve"/>
+      <point x="760" y="343" type="line"/>
+      <point x="495" y="410"/>
+      <point x="50" y="393"/>
+      <point x="50" y="178" type="curve" smooth="yes"/>
+      <point x="50" y="63"/>
+      <point x="166" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>o.sc</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>
