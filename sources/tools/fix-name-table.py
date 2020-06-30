@@ -49,7 +49,6 @@ fsSelection_values = {
     "Italic": 1,
     "Bold": 32,
     "Bold Italic": 33,
-    "Not_RIBBI_italic": 1
 }
 
 macStyle_values = {
@@ -57,7 +56,6 @@ macStyle_values = {
     "Italic": 2,
     "Bold": 1,
     "Bold Italic": 3,
-    "Not_RIBBI_italic": 2
 }
 
 
@@ -227,8 +225,8 @@ for filename in os.listdir(font_file_folder):
                 ttfont["OS/2"].fsSelection = fsSelection_values["Regular"]
                 ttfont["head"].macStyle = macStyle_values["Regular"]
             else:
-                ttfont["OS/2"].fsSelection = fsSelection_values["Not_RIBBI_italic"]
-                ttfont["head"].macStyle = macStyle_values["Not_RIBBI_italic"]
+                ttfont["OS/2"].fsSelection = fsSelection_values["Italic"]
+                ttfont["head"].macStyle = macStyle_values["Italic"]
 
 
         ttfont.save(output_font_file_full_path)
