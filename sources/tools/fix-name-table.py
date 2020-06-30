@@ -46,7 +46,7 @@ RIBBI_style = [
 
 fsSelection_values = {
     "Regular": 64,
-    "Italic": 2,
+    "Italic": 1,
     "Bold": 32,
     "Bold Italic": 33,
     "Not_RIBBI_italic": 1
