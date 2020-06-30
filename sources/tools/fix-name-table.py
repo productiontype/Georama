@@ -15,7 +15,7 @@ output_folder_path = "../fonts/Static/TTF"
 
 do_shorten = False
 add_nameID_16_and_17 = True
-add_platformID_1 = True
+add_platformID_1 = False
 
 
 shortening = {
