@@ -8,6 +8,7 @@ it applies it only to nameID 1 and nameID 4
 import os
 import re
 from fontTools.ttLib import TTFont
+import unicodedata
 
 font_file_folder = "../fonts/Static/TTF"
 output_folder_path = "../fonts/Static/TTF"
@@ -69,10 +70,20 @@ def return_filename_no_extension(filename):
     return filename_no_extension
 
 def return_familyname(filename):
-    familyname = filename_no_extension.split("-")[0]
-    if familyname != "Georama":
-        familyname = familyname.replace("Georama", "Georama ")
-    return familyname
+    name = return_filename_no_extension(filename).split("-")[0]
+    parts = []
+    i = 0
+    for s in name:
+        if unicodedata.category(s) == 'Lu':
+            part = name[:i]
+            if part:
+                parts.append(part)
+            name = name[i:]
+            i = 0
+        i += 1
+    parts.append(name)
+
+    return ' '.join(parts)
 
 def return_stylename(filename):
     stylename = filename_no_extension.split("-")[1]
