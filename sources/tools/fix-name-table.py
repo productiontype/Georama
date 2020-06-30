@@ -9,8 +9,8 @@ import os
 import re
 from fontTools.ttLib import TTFont
 
-font_file_folder = "../instance_ttf"
-output_folder_path = "../instance_ttf"
+font_file_folder = "../fonts/Static/TTF"
+output_folder_path = "../fonts/Static/TTF"
 
 
 do_shorten = False
