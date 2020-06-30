@@ -176,7 +176,7 @@ for filename in os.listdir(font_file_folder):
         ttfont["name"].setName( string=nameID6,  nameID=6,  platformID=3, platEncID=1, langID=0x409 )
         ttfont["name"].setName( string=nameID18,  nameID=18,  platformID=3, platEncID=1, langID=0x409 )
 
-        if stylename not in RIBBI_style:
+        if not is_RIBBI(stylename):
             ttfont["name"].setName( string=nameID16, nameID=16, platformID=3, platEncID=1, langID=0x409 )
             ttfont["name"].setName( string=nameID17, nameID=17, platformID=3, platEncID=1, langID=0x409 )
 
@@ -190,11 +190,11 @@ for filename in os.listdir(font_file_folder):
             ttfont["name"].setName( string=nameID2,  nameID=2,  platformID=1, platEncID=0, langID=0x0 )
             ttfont["name"].setName( string=nameID4,  nameID=4,  platformID=1, platEncID=0, langID=0x0 )
             ttfont["name"].setName( string=nameID6,  nameID=6,  platformID=1, platEncID=0, langID=0x0 )
-            if stylename not in RIBBI_style:
+            if is_RIBBI(stylename):
                 ttfont["name"].setName( string=nameID16, nameID=16, platformID=1, platEncID=0, langID=0x0 )
                 ttfont["name"].setName( string=nameID17, nameID=17, platformID=1, platEncID=0, langID=0x0 )
 
-            if add_nameID_16_and_17 == True and stylename in RIBBI_style:
+            if add_nameID_16_and_17 == True and not is_RIBBI(stylename):
                 ttfont["name"].setName( string=nameID16, nameID=16, platformID=1, platEncID=0, langID=0x0 )
                 ttfont["name"].setName( string=nameID17, nameID=17, platformID=1, platEncID=0, langID=0x0 )
 
