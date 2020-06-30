@@ -191,11 +191,6 @@ for filename in os.listdir(font_file_folder):
             ttfont["name"].setName( string=nameID16, nameID=16, platformID=3, platEncID=1, langID=0x409 )
             ttfont["name"].setName( string=nameID17, nameID=17, platformID=3, platEncID=1, langID=0x409 )
 
-        if add_nameID_16_and_17 == True and stylename in RIBBI_style:
-            ttfont["name"].setName( string=nameID16, nameID=16, platformID=3, platEncID=1, langID=0x409 )
-            ttfont["name"].setName( string=nameID17, nameID=17, platformID=3, platEncID=1, langID=0x409 )
-
-
         if add_platformID_1 == True:
             ttfont["name"].setName( string=nameID1,  nameID=1,  platformID=1, platEncID=0, langID=0x0 )
             ttfont["name"].setName( string=nameID2,  nameID=2,  platformID=1, platEncID=0, langID=0x0 )
