@@ -1,14 +1,34 @@
 set -e
 
-echo "Adding STAT table to Georama-VF.ttf ..."
-statmake --designspace ../Georama.designspace "../fonts/Variable/Georama[wdth,wght].ttf"
+variablepath="../fonts/Variable"
 
-echo "Adding STAT table to GeoramaItalic-VF.ttf ..."
-statmake --designspace ../GeoramaItalic.designspace "../fonts/Variable/Georama-Italic[wdth,wght].ttf"
+echo "Adding STAT table to Georama[wdth,wght].ttf ..."
+statmake --designspace ./Georama.designspace "../fonts/Variable/Georama[wdth,wght].ttf"
 
-# Hinting
-for i in ../fonts/Variable/*.ttf; do
+echo "Adding STAT table to Georama-Italic[wdth,wght] ..."
+statmake --designspace ./GeoramaItalic.designspace "../fonts/Variable/Georama-Italic[wdth,wght].ttf"
+
+# Fix name table
+echo "Fix name table"
+python3 ./tools/fix-name-table-vf.py
+
+for i in $variablepath/*.ttf; do
+
+	# Hinting
+	echo "Hinting $i"
 	./tools/ttfautohint-vf --stem-width-mode nnn $i ${i}.hinted
-	echo "Hinting $i ..."
+	mv ${i}.hinted $i
+
+	# Add DSIG table
+	gftools fix-dsig $i -a -f
+
+	# Add GASP table
+	gftools fix-gasp $i --autofix
+	# mv ${i}.fix $i
+
+	# Fix PPEM rounding
+	echo "Setting $i PPEM rounding ..."
+	gftools fix-hinting $i
+	mv ${i}.fix $i
+
 done
-for i in ../fonts/Variable/*.hinted ; do mv $i ${i//.hinted/} ; done

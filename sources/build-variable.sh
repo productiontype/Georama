@@ -1,4 +1,3 @@
-set -e
 
 # Georama fonts build notes
 # --------------------------------------------------------------------------------
@@ -16,6 +15,10 @@ set -e
 #
 # --------------------------------------------------------------------------------
 
+rm "../fonts/Variable/*.ttf"
+
+# Fail fast
+set -e
 
 # Generate VF
 fontmake -m Georama.designspace -o variable --output-path "../fonts/Variable/Georama[wdth,wght].ttf"
