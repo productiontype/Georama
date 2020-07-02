@@ -19,8 +19,8 @@
             <map input="75" output="100" /> <!-- Condensed -->
             <map input="87.5" output="200" /> <!-- SemiCondensed -->
             <map input="100" output="400" /> <!-- Normal -->
-            <map input="125" output="700" /> <!-- Extended -->
-            <map input="150" output="1000" /> <!-- ExtraExtended -->
+            <map input="125" output="700" /> <!-- Expanded -->
+            <map input="150" output="1000" /> <!-- ExtraExpanded -->
         </axis>
     </axes>
     <sources>
@@ -34,7 +34,7 @@
                 <dimension name="width" xvalue="0" />
             </location>
         </source>
-        <source filename="Georama-Xp-XLt.ufo" stylename="Expanded ExtraLight">
+        <source filename="Georama-Xp-XLt.ufo" stylename="Extended ExtraLight">
             <location>
                 <dimension name="weight" xvalue="0" />
                 <dimension name="width" xvalue="1000" />
@@ -65,7 +65,7 @@
                 <dimension name="width" xvalue="400" />
             </location>
         </source>
-        <source filename="Georama-XCn-XLt.ufo" layer="ExtraExtended SemiBold" name="ExtraExtended SemiBold">
+        <source filename="Georama-XCn-XLt.ufo" layer="ExtraExtended SemiBold" name="ExtraExpanded SemiBold">
             <location>
                 <dimension name="weight" xvalue="500" />
                 <dimension name="width" xvalue="1000" />
@@ -378,7 +378,7 @@
             <info />
         </instance>        
 
-        <instance familyname="Georama Extended" filename="instances/GeoramaExtended-Thin.ufo" postscriptfontname="GeoramaExtended-Thin" stylename="Thin" stylemapfamilyname="Georama Ext Thin">
+        <instance familyname="Georama Expanded" filename="instances/GeoramaExpanded-Thin.ufo" postscriptfontname="GeoramaExpanded-Thin" stylename="Thin" stylemapfamilyname="Georama Ext Thin">
             <location>
                 <dimension name="weight" xvalue="0" />
                 <dimension name="width" xvalue="700" />
@@ -386,7 +386,7 @@
             <kerning />
             <info />
         </instance>
-        <instance familyname="Georama Extended" filename="instances/GeoramaExtended-ExtraLight.ufo" postscriptfontname="GeoramaExtended-ExtraLight" stylename="ExtraLight" stylemapfamilyname="Georama Ext ExLight">
+        <instance familyname="Georama Expanded" filename="instances/GeoramaExpanded-ExtraLight.ufo" postscriptfontname="GeoramaExpanded-ExtraLight" stylename="ExtraLight" stylemapfamilyname="Georama Ext ExLight">
             <location>
                 <dimension name="weight" xvalue="90" />
                 <dimension name="width" xvalue="700" />
@@ -394,7 +394,7 @@
             <kerning />
             <info />
         </instance>
-        <instance familyname="Georama Extended" filename="instances/GeoramaExtended-Light.ufo" postscriptfontname="GeoramaExtended-Light" stylename="Light" stylemapfamilyname="Georama Ext Light">
+        <instance familyname="Georama Expanded" filename="instances/GeoramaExpanded-Light.ufo" postscriptfontname="GeoramaExpanded-Light" stylename="Light" stylemapfamilyname="Georama Ext Light">
             <location>
                 <dimension name="weight" xvalue="200" />
                 <dimension name="width" xvalue="700" />
@@ -402,7 +402,7 @@
             <kerning />
             <info />
         </instance>
-        <instance familyname="Georama Extended" filename="instances/GeoramaExtended-Regular.ufo" postscriptfontname="GeoramaExtended-Regular" stylename="Regular" stylemapfamilyname="Georama Ext">
+        <instance familyname="Georama Expanded" filename="instances/GeoramaExpanded-Regular.ufo" postscriptfontname="GeoramaExpanded-Regular" stylename="Regular" stylemapfamilyname="Georama Ext">
             <location>
                 <dimension name="weight" xvalue="310" />
                 <dimension name="width" xvalue="700" />
@@ -410,7 +410,7 @@
             <kerning />
             <info />
         </instance>
-        <instance familyname="Georama Extended" filename="instances/GeoramaExtended-Medium.ufo" postscriptfontname="GeoramaExtended-Medium" stylename="Medium" stylemapfamilyname="Georama Ext Medium">
+        <instance familyname="Georama Expanded" filename="instances/GeoramaExpanded-Medium.ufo" postscriptfontname="GeoramaExpanded-Medium" stylename="Medium" stylemapfamilyname="Georama Ext Medium">
             <location>
                 <dimension name="weight" xvalue="430" />
                 <dimension name="width" xvalue="700" />
@@ -418,7 +418,7 @@
             <kerning />
             <info />
         </instance>
-        <instance familyname="Georama Extended" filename="instances/GeoramaExtended-SemiBold.ufo" postscriptfontname="GeoramaExtended-SemiBold" stylename="SemiBold" stylemapfamilyname="Georama Ext SmBold">
+        <instance familyname="Georama Expanded" filename="instances/GeoramaExpanded-SemiBold.ufo" postscriptfontname="GeoramaExpanded-SemiBold" stylename="SemiBold" stylemapfamilyname="Georama Ext SmBold">
             <location>
                 <dimension name="weight" xvalue="550" />
                 <dimension name="width" xvalue="700" />
@@ -426,7 +426,7 @@
             <kerning />
             <info />
         </instance>
-        <instance familyname="Georama Extended" filename="instances/GeoramaExtended-Bold.ufo" postscriptfontname="GeoramaExtended-Bold" stylename="Bold" stylemapfamilyname="Georama Ext" stylemapstylename="bold">
+        <instance familyname="Georama Expanded" filename="instances/GeoramaExpanded-Bold.ufo" postscriptfontname="GeoramaExpanded-Bold" stylename="Bold" stylemapfamilyname="Georama Ext" stylemapstylename="bold">
             <location>
                 <dimension name="weight" xvalue="700" />
                 <dimension name="width" xvalue="700" />
@@ -434,7 +434,7 @@
             <kerning />
             <info />
         </instance>
-        <instance familyname="Georama Extended" filename="instances/GeoramaExtended-ExtraBold.ufo" postscriptfontname="GeoramaExtended-ExtraBold" stylename="ExtraBold" stylemapfamilyname="Georama Ext ExBd">
+        <instance familyname="Georama Expanded" filename="instances/GeoramaExpanded-ExtraBold.ufo" postscriptfontname="GeoramaExpanded-ExtraBold" stylename="ExtraBold" stylemapfamilyname="Georama Ext ExBd">
             <location>
                 <dimension name="weight" xvalue="860" />
                 <dimension name="width" xvalue="700" />
@@ -442,7 +442,7 @@
             <kerning />
             <info />
         </instance>
-        <instance familyname="Georama Extended" filename="instances/GeoramaExtended-Black.ufo" postscriptfontname="GeoramaExtended-Black" stylename="Black" stylemapfamilyname="Georama Ext Black">
+        <instance familyname="Georama Expanded" filename="instances/GeoramaExpanded-Black.ufo" postscriptfontname="GeoramaExpanded-Black" stylename="Black" stylemapfamilyname="Georama Ext Black">
             <location>
                 <dimension name="weight" xvalue="1000" />
                 <dimension name="width" xvalue="700" />
@@ -451,7 +451,7 @@
             <info />
         </instance>
 
-        <instance familyname="Georama ExtraExtended" filename="instances/GeoramaExtraExtended-Thin.ufo" postscriptfontname="GeoramaExtraExtended-Thin" stylename="Thin" stylemapfamilyname="Georama XExt Thin">
+        <instance familyname="Georama ExtraExpanded" filename="instances/GeoramaExtraExpanded-Thin.ufo" postscriptfontname="GeoramaExtraExpanded-Thin" stylename="Thin" stylemapfamilyname="Georama XExt Thin">
             <location>
                 <dimension name="weight" xvalue="0" />
                 <dimension name="width" xvalue="1000" />
@@ -459,7 +459,7 @@
             <kerning />
             <info />
         </instance>
-        <instance familyname="Georama ExtraExtended" filename="instances/GeoramaExtraExtended-ExtraLight.ufo" postscriptfontname="GeoramaExtraExtended-ExtraLight" stylename="ExtraLight" stylemapfamilyname="Georama XExt ExLight">
+        <instance familyname="Georama ExtraExpanded" filename="instances/GeoramaExtraExpanded-ExtraLight.ufo" postscriptfontname="GeoramaExtraExpanded-ExtraLight" stylename="ExtraLight" stylemapfamilyname="Georama XExt ExLight">
             <location>
                 <dimension name="weight" xvalue="90" />
                 <dimension name="width" xvalue="1000" />
@@ -467,7 +467,7 @@
             <kerning />
             <info />
         </instance>
-        <instance familyname="Georama ExtraExtended" filename="instances/GeoramaExtraExtended-Light.ufo" postscriptfontname="GeoramaExtraExtended-Light" stylename="Light" stylemapfamilyname="Georama XExt Light">
+        <instance familyname="Georama ExtraExpanded" filename="instances/GeoramaExtraExpanded-Light.ufo" postscriptfontname="GeoramaExtraExpanded-Light" stylename="Light" stylemapfamilyname="Georama XExt Light">
             <location>
                 <dimension name="weight" xvalue="200" />
                 <dimension name="width" xvalue="1000" />
@@ -475,7 +475,7 @@
             <kerning />
             <info />
         </instance>
-        <instance familyname="Georama ExtraExtended" filename="instances/GeoramaExtraExtended-Regular.ufo" postscriptfontname="GeoramaExtraExtended-Regular" stylename="Regular" stylemapfamilyname="Georama XExt">
+        <instance familyname="Georama ExtraExpanded" filename="instances/GeoramaExtraExpanded-Regular.ufo" postscriptfontname="GeoramaExtraExpanded-Regular" stylename="Regular" stylemapfamilyname="Georama XExt">
             <location>
                 <dimension name="weight" xvalue="310" />
                 <dimension name="width" xvalue="1000" />
@@ -483,7 +483,7 @@
             <kerning />
             <info />
         </instance>
-        <instance familyname="Georama ExtraExtended" filename="instances/GeoramaExtraExtended-Medium.ufo" postscriptfontname="GeoramaExtraExtended-Medium" stylename="Medium" stylemapfamilyname="Georama XExt Medium">
+        <instance familyname="Georama ExtraExpanded" filename="instances/GeoramaExtraExpanded-Medium.ufo" postscriptfontname="GeoramaExtraExpanded-Medium" stylename="Medium" stylemapfamilyname="Georama XExt Medium">
             <location>
                 <dimension name="weight" xvalue="430" />
                 <dimension name="width" xvalue="1000" />
@@ -491,7 +491,7 @@
             <kerning />
             <info />
         </instance>
-        <instance familyname="Georama ExtraExtended" filename="instances/GeoramaExtraExtended-SemiBold.ufo" postscriptfontname="GeoramaExtraExtended-SemiBold" stylename="SemiBold" stylemapfamilyname="Georama XExt SmBold">
+        <instance familyname="Georama ExtraExpanded" filename="instances/GeoramaExtraExpanded-SemiBold.ufo" postscriptfontname="GeoramaExtraExpanded-SemiBold" stylename="SemiBold" stylemapfamilyname="Georama XExt SmBold">
             <location>
                 <dimension name="weight" xvalue="550" />
                 <dimension name="width" xvalue="1000" />
@@ -499,7 +499,7 @@
             <kerning />
             <info />
         </instance>
-        <instance familyname="Georama ExtraExtended" filename="instances/GeoramaExtraExtended-Bold.ufo" postscriptfontname="GeoramaExtraExtended-Bold" stylename="Bold" stylemapfamilyname="Georama XExt" stylemapstylename="bold">
+        <instance familyname="Georama ExtraExpanded" filename="instances/GeoramaExtraExpanded-Bold.ufo" postscriptfontname="GeoramaExtraExpanded-Bold" stylename="Bold" stylemapfamilyname="Georama XExt" stylemapstylename="bold">
             <location>
                 <dimension name="weight" xvalue="700" />
                 <dimension name="width" xvalue="1000" />
@@ -507,7 +507,7 @@
             <kerning />
             <info />
         </instance>
-        <instance familyname="Georama ExtraExtended" filename="instances/GeoramaExtraExtended-ExtraBold.ufo" postscriptfontname="GeoramaExtraExtended-ExtraBold" stylename="ExtraBold" stylemapfamilyname="Georama XExt ExBd">
+        <instance familyname="Georama ExtraExpanded" filename="instances/GeoramaExtraExpanded-ExtraBold.ufo" postscriptfontname="GeoramaExtraExpanded-ExtraBold" stylename="ExtraBold" stylemapfamilyname="Georama XExt ExBd">
             <location>
                 <dimension name="weight" xvalue="860" />
                 <dimension name="width" xvalue="1000" />
@@ -515,7 +515,7 @@
             <kerning />
             <info />
         </instance>
-        <instance familyname="Georama ExtraExtended" filename="instances/GeoramaExtraExtended-Black.ufo" postscriptfontname="GeoramaExtraExtended-Black" stylename="Black" stylemapfamilyname="Georama XExt Black">
+        <instance familyname="Georama ExtraExpanded" filename="instances/GeoramaExtraExpanded-Black.ufo" postscriptfontname="GeoramaExtraExpanded-Black" stylename="Black" stylemapfamilyname="Georama XExt Black">
             <location>
                 <dimension name="weight" xvalue="1000" />
                 <dimension name="width" xvalue="1000" />

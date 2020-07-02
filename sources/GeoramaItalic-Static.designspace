@@ -19,8 +19,8 @@
             <map input="75" output="100" /> <!-- Condensed -->
             <map input="87.5" output="200" /> <!-- SemiCondensed -->
             <map input="100" output="400" /> <!-- Normal -->
-            <map input="125" output="700" /> <!-- Extended -->
-            <map input="150" output="1000" /> <!-- ExtraExtended -->
+            <map input="125" output="700" /> <!-- Expanded -->
+            <map input="150" output="1000" /> <!-- ExtraExpanded -->
         </axis>
     </axes>
     <sources>
@@ -34,7 +34,7 @@
                 <dimension name="width" xvalue="0" />
             </location>
         </source>
-        <source filename="Georama-iXp-XLt.ufo" stylename="Expanded ExtraLight">
+        <source filename="Georama-iXp-XLt.ufo" stylename="Extended ExtraLight">
             <location>
                 <dimension name="weight" xvalue="0" />
                 <dimension name="width" xvalue="1000" />
@@ -65,7 +65,7 @@
                 <dimension name="width" xvalue="400" />
             </location>
         </source>
-        <source filename="Georama-iXCn-XLt.ufo" layer="ExtraExtended SemiBold Italic" name="ExtraExtended SemiBold Italic">
+        <source filename="Georama-iXCn-XLt.ufo" layer="ExtraExtended SemiBold Italic" name="ExtraExpanded SemiBold Italic">
             <location>
                 <dimension name="weight" xvalue="500" />
                 <dimension name="width" xvalue="1000" />
@@ -378,7 +378,7 @@
             <info />
         </instance>        
 
-        <instance familyname="Georama Extended" filename="instances/GeoramaExtended-ThinItalic.ufo" postscriptfontname="GeoramaExtended-ThinItalic" stylename="Thin Italic" stylemapfamilyname="Georama Ext Thin" stylemapstylename="italic">
+        <instance familyname="Georama Expanded" filename="instances/GeoramaExpanded-ThinItalic.ufo" postscriptfontname="GeoramaExpanded-ThinItalic" stylename="Thin Italic" stylemapfamilyname="Georama Ext Thin" stylemapstylename="italic">
             <location>
                 <dimension name="weight" xvalue="0" />
                 <dimension name="width" xvalue="700" />
@@ -386,7 +386,7 @@
             <kerning />
             <info />
         </instance>
-        <instance familyname="Georama Extended" filename="instances/GeoramaExtended-ExtraLightItalic.ufo" postscriptfontname="GeoramaExtended-ExtraLightItalic" stylename="ExtraLight Italic" stylemapfamilyname="Georama Ext ExLight" stylemapstylename="italic">
+        <instance familyname="Georama Expanded" filename="instances/GeoramaExpanded-ExtraLightItalic.ufo" postscriptfontname="GeoramaExpanded-ExtraLightItalic" stylename="ExtraLight Italic" stylemapfamilyname="Georama Ext ExLight" stylemapstylename="italic">
             <location>
                 <dimension name="weight" xvalue="90" />
                 <dimension name="width" xvalue="700" />
@@ -394,7 +394,7 @@
             <kerning />
             <info />
         </instance>
-        <instance familyname="Georama Extended" filename="instances/GeoramaExtended-LightItalic.ufo" postscriptfontname="GeoramaExtended-LightItalic" stylename="Light Italic" stylemapfamilyname="Georama Ext Light" stylemapstylename="italic">
+        <instance familyname="Georama Expanded" filename="instances/GeoramaExpanded-LightItalic.ufo" postscriptfontname="GeoramaExpanded-LightItalic" stylename="Light Italic" stylemapfamilyname="Georama Ext Light" stylemapstylename="italic">
             <location>
                 <dimension name="weight" xvalue="200" />
                 <dimension name="width" xvalue="700" />
@@ -402,7 +402,7 @@
             <kerning />
             <info />
         </instance>
-        <instance familyname="Georama Extended" filename="instances/GeoramaExtended-Italic.ufo" postscriptfontname="GeoramaExtended-Italic" stylename="Italic" stylemapfamilyname="Georama Ext" stylemapstylename="italic">
+        <instance familyname="Georama Expanded" filename="instances/GeoramaExpanded-Italic.ufo" postscriptfontname="GeoramaExpanded-Italic" stylename="Italic" stylemapfamilyname="Georama Ext" stylemapstylename="italic">
             <location>
                 <dimension name="weight" xvalue="310" />
                 <dimension name="width" xvalue="700" />
@@ -410,7 +410,7 @@
             <kerning />
             <info />
         </instance>
-        <instance familyname="Georama Extended" filename="instances/GeoramaExtended-MediumItalic.ufo" postscriptfontname="GeoramaExtended-MediumItalic" stylename="Medium Italic" stylemapfamilyname="Georama Ext Medium" stylemapstylename="italic">
+        <instance familyname="Georama Expanded" filename="instances/GeoramaExpanded-MediumItalic.ufo" postscriptfontname="GeoramaExpanded-MediumItalic" stylename="Medium Italic" stylemapfamilyname="Georama Ext Medium" stylemapstylename="italic">
             <location>
                 <dimension name="weight" xvalue="430" />
                 <dimension name="width" xvalue="700" />
@@ -418,7 +418,7 @@
             <kerning />
             <info />
         </instance>
-        <instance familyname="Georama Extended" filename="instances/GeoramaExtended-SemiBoldItalic.ufo" postscriptfontname="GeoramaExtended-SemiBoldItalic" stylename="SemiBold Italic" stylemapfamilyname="Georama Ext SmBold" stylemapstylename="italic">
+        <instance familyname="Georama Expanded" filename="instances/GeoramaExpanded-SemiBoldItalic.ufo" postscriptfontname="GeoramaExpanded-SemiBoldItalic" stylename="SemiBold Italic" stylemapfamilyname="Georama Ext SmBold" stylemapstylename="italic">
             <location>
                 <dimension name="weight" xvalue="550" />
                 <dimension name="width" xvalue="700" />
@@ -426,7 +426,7 @@
             <kerning />
             <info />
         </instance>
-        <instance familyname="Georama Extended" filename="instances/GeoramaExtended-BoldItalic.ufo" postscriptfontname="GeoramaExtended-BoldItalic" stylename="Bold Italic" stylemapfamilyname="Georama Ext" stylemapstylename="bold italic">
+        <instance familyname="Georama Expanded" filename="instances/GeoramaExpanded-BoldItalic.ufo" postscriptfontname="GeoramaExpanded-BoldItalic" stylename="Bold Italic" stylemapfamilyname="Georama Ext" stylemapstylename="bold italic">
             <location>
                 <dimension name="weight" xvalue="700" />
                 <dimension name="width" xvalue="700" />
@@ -434,7 +434,7 @@
             <kerning />
             <info />
         </instance>
-        <instance familyname="Georama Extended" filename="instances/GeoramaExtended-ExtraBoldItalic.ufo" postscriptfontname="GeoramaExtended-ExtraBoldItalic" stylename="ExtraBold Italic" stylemapfamilyname="Georama Ext ExBd" stylemapstylename="italic">
+        <instance familyname="Georama Expanded" filename="instances/GeoramaExpanded-ExtraBoldItalic.ufo" postscriptfontname="GeoramaExpanded-ExtraBoldItalic" stylename="ExtraBold Italic" stylemapfamilyname="Georama Ext ExBd" stylemapstylename="italic">
             <location>
                 <dimension name="weight" xvalue="860" />
                 <dimension name="width" xvalue="700" />
@@ -442,7 +442,7 @@
             <kerning />
             <info />
         </instance>
-        <instance familyname="Georama Extended" filename="instances/GeoramaExtended-BlackItalic.ufo" postscriptfontname="GeoramaExtended-BlackItalic" stylename="Black Italic" stylemapfamilyname="Georama Ext Black" stylemapstylename="italic">
+        <instance familyname="Georama Expanded" filename="instances/GeoramaExpanded-BlackItalic.ufo" postscriptfontname="GeoramaExpanded-BlackItalic" stylename="Black Italic" stylemapfamilyname="Georama Ext Black" stylemapstylename="italic">
             <location>
                 <dimension name="weight" xvalue="1000" />
                 <dimension name="width" xvalue="700" />
@@ -451,7 +451,7 @@
             <info />
         </instance>
 
-        <instance familyname="Georama ExtraExtended" filename="instances/GeoramaExtraExtended-ThinItalic.ufo" postscriptfontname="GeoramaExtraExtended-ThinItalic" stylename="Thin Italic" stylemapfamilyname="Georama XExt Thin" stylemapstylename="italic">
+        <instance familyname="Georama ExtraExpanded" filename="instances/GeoramaExtraExpanded-ThinItalic.ufo" postscriptfontname="GeoramaExtraExpanded-ThinItalic" stylename="Thin Italic" stylemapfamilyname="Georama XExt Thin" stylemapstylename="italic">
             <location>
                 <dimension name="weight" xvalue="0" />
                 <dimension name="width" xvalue="1000" />
@@ -459,7 +459,7 @@
             <kerning />
             <info />
         </instance>
-        <instance familyname="Georama ExtraExtended" filename="instances/GeoramaExtraExtended-ExtraLightItalic.ufo" postscriptfontname="GeoramaExtraExtended-ExtraLightItalic" stylename="ExtraLight Italic" stylemapfamilyname="Georama XExt ExLight" stylemapstylename="italic">
+        <instance familyname="Georama ExtraExpanded" filename="instances/GeoramaExtraExpanded-ExtraLightItalic.ufo" postscriptfontname="GeoramaExtraExpanded-ExtraLightItalic" stylename="ExtraLight Italic" stylemapfamilyname="Georama XExt ExLight" stylemapstylename="italic">
             <location>
                 <dimension name="weight" xvalue="90" />
                 <dimension name="width" xvalue="1000" />
@@ -467,7 +467,7 @@
             <kerning />
             <info />
         </instance>
-        <instance familyname="Georama ExtraExtended" filename="instances/GeoramaExtraExtended-LightItalic.ufo" postscriptfontname="GeoramaExtraExtended-LightItalic" stylename="Light Italic" stylemapfamilyname="Georama XExt Light" stylemapstylename="italic">
+        <instance familyname="Georama ExtraExpanded" filename="instances/GeoramaExtraExpanded-LightItalic.ufo" postscriptfontname="GeoramaExtraExpanded-LightItalic" stylename="Light Italic" stylemapfamilyname="Georama XExt Light" stylemapstylename="italic">
             <location>
                 <dimension name="weight" xvalue="200" />
                 <dimension name="width" xvalue="1000" />
@@ -475,7 +475,7 @@
             <kerning />
             <info />
         </instance>
-        <instance familyname="Georama ExtraExtended" filename="instances/GeoramaExtraExtended-Italic.ufo" postscriptfontname="GeoramaExtraExtended-Italic" stylename="Italic" stylemapfamilyname="Georama XExt" stylemapstylename="italic">
+        <instance familyname="Georama ExtraExpanded" filename="instances/GeoramaExtraExpanded-Italic.ufo" postscriptfontname="GeoramaExtraExpanded-Italic" stylename="Italic" stylemapfamilyname="Georama XExt" stylemapstylename="italic">
             <location>
                 <dimension name="weight" xvalue="310" />
                 <dimension name="width" xvalue="1000" />
@@ -483,7 +483,7 @@
             <kerning />
             <info />
         </instance>
-        <instance familyname="Georama ExtraExtended" filename="instances/GeoramaExtraExtended-MediumItalic.ufo" postscriptfontname="GeoramaExtraExtended-MediumItalic" stylename="Medium Italic" stylemapfamilyname="Georama XExt Medium" stylemapstylename="italic">
+        <instance familyname="Georama ExtraExpanded" filename="instances/GeoramaExtraExpanded-MediumItalic.ufo" postscriptfontname="GeoramaExtraExpanded-MediumItalic" stylename="Medium Italic" stylemapfamilyname="Georama XExt Medium" stylemapstylename="italic">
             <location>
                 <dimension name="weight" xvalue="430" />
                 <dimension name="width" xvalue="1000" />
@@ -491,7 +491,7 @@
             <kerning />
             <info />
         </instance>
-        <instance familyname="Georama ExtraExtended" filename="instances/GeoramaExtraExtended-SemiBoldItalic.ufo" postscriptfontname="GeoramaExtraExtended-SemiBoldItalic" stylename="SemiBold Italic" stylemapfamilyname="Georama XExt SmBold" stylemapstylename="italic">
+        <instance familyname="Georama ExtraExpanded" filename="instances/GeoramaExtraExpanded-SemiBoldItalic.ufo" postscriptfontname="GeoramaExtraExpanded-SemiBoldItalic" stylename="SemiBold Italic" stylemapfamilyname="Georama XExt SmBold" stylemapstylename="italic">
             <location>
                 <dimension name="weight" xvalue="550" />
                 <dimension name="width" xvalue="1000" />
@@ -499,7 +499,7 @@
             <kerning />
             <info />
         </instance>
-        <instance familyname="Georama ExtraExtended" filename="instances/GeoramaExtraExtended-BoldItalic.ufo" postscriptfontname="GeoramaExtraExtended-BoldItalic" stylename="Bold Italic" stylemapfamilyname="Georama XExt" stylemapstylename="bold italic">
+        <instance familyname="Georama ExtraExpanded" filename="instances/GeoramaExtraExpanded-BoldItalic.ufo" postscriptfontname="GeoramaExtraExpanded-BoldItalic" stylename="Bold Italic" stylemapfamilyname="Georama XExt" stylemapstylename="bold italic">
             <location>
                 <dimension name="weight" xvalue="700" />
                 <dimension name="width" xvalue="1000" />
@@ -507,7 +507,7 @@
             <kerning />
             <info />
         </instance>
-        <instance familyname="Georama ExtraExtended" filename="instances/GeoramaExtraExtended-ExtraBoldItalic.ufo" postscriptfontname="GeoramaExtraExtended-ExtraBoldItalic" stylename="ExtraBold Italic" stylemapfamilyname="Georama XExt ExBd" stylemapstylename="italic">
+        <instance familyname="Georama ExtraExpanded" filename="instances/GeoramaExtraExpanded-ExtraBoldItalic.ufo" postscriptfontname="GeoramaExtraExpanded-ExtraBoldItalic" stylename="ExtraBold Italic" stylemapfamilyname="Georama XExt ExBd" stylemapstylename="italic">
             <location>
                 <dimension name="weight" xvalue="860" />
                 <dimension name="width" xvalue="1000" />
@@ -515,7 +515,7 @@
             <kerning />
             <info />
         </instance>
-        <instance familyname="Georama ExtraExtended" filename="instances/GeoramaExtraExtended-BlackItalic.ufo" postscriptfontname="GeoramaExtraExtended-BlackItalic" stylename="Black Italic" stylemapfamilyname="Georama XExt Black" stylemapstylename="italic">
+        <instance familyname="Georama ExtraExpanded" filename="instances/GeoramaExtraExpanded-BlackItalic.ufo" postscriptfontname="GeoramaExtraExpanded-BlackItalic" stylename="Black Italic" stylemapfamilyname="Georama XExt Black" stylemapstylename="italic">
             <location>
                 <dimension name="weight" xvalue="1000" />
                 <dimension name="width" xvalue="1000" />
