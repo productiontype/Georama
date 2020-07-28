@@ -1,3 +1,4 @@
+# Fail fast
 set -e
 
 variablepath="../fonts/Variable"
@@ -30,5 +31,9 @@ for i in $variablepath/*.ttf; do
 	echo "Setting $i PPEM rounding ..."
 	gftools fix-hinting $i
 	mv ${i}.fix $i
+
+	# Remove unwanted fvar instances
+	echo "Remove unwanted fvar instances"
+	python ./tools/removeUnwantedVFInstances.py $i
 
 done
