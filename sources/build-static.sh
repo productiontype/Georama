@@ -16,15 +16,14 @@
 # --------------------------------------------------------------------------------
 
 
+# Fail fast
+set -e
+
 # Generate Static Fonts
 staticpath="../fonts/Static/TTF"
 webfont_metadata="./webfont_metadata.xml"
 
-rm -r $staticpath/*.ttf
-
-# Fail fast
-set -e
-
+rm -rf $staticpath/*.ttf
 fontmake -m Georama-Static.designspace -i -o ttf --output-dir $staticpath --expand-features-to-instances
 fontmake -m GeoramaItalic-Static.designspace -i -o ttf --output-dir $staticpath --expand-features-to-instances
 
