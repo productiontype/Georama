@@ -9,10 +9,6 @@ statmake --designspace ./Georama.designspace "../fonts/Variable/Georama[wdth,wgh
 echo "Adding STAT table to Georama-Italic[wdth,wght] ..."
 statmake --designspace ./GeoramaItalic.designspace "../fonts/Variable/Georama-Italic[wdth,wght].ttf"
 
-# Fix name table
-echo "Fix name table"
-python3 ./tools/fix-name-table-vf.py
-
 for i in $variablepath/*.ttf; do
 
 	# Hinting
@@ -37,3 +33,7 @@ for i in $variablepath/*.ttf; do
 	python ./tools/removeUnwantedVFInstances.py $i
 
 done
+
+# Fix name table
+echo "Fix name table"
+python3 ./tools/fix-name-table-vf.py
