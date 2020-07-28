@@ -11,22 +11,17 @@ statmake --designspace ./GeoramaItalic.designspace "../fonts/Variable/Georama-It
 
 for i in $variablepath/*.ttf; do
 
-	# Hinting
-	echo "Hinting $i"
-	./tools/ttfautohint-vf --stem-width-mode nnn $i ${i}.hinted
-	mv ${i}.hinted $i
-
 	# Add DSIG table
 	gftools fix-dsig $i -a -f
 
 	# Add GASP table
 	gftools fix-gasp $i --autofix
-	# mv ${i}.fix $i
+	rm $variablepath/*backup*.ttf
 
 	# Fix PPEM rounding
 	echo "Setting $i PPEM rounding ..."
-	gftools fix-hinting $i
-	mv ${i}.fix $i
+	gftools fix-nonhinting $i $i.fix
+	mv $i.fix $i
 
 	# Remove unwanted fvar instances
 	echo "Remove unwanted fvar instances"
