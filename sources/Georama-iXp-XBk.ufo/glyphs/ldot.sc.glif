@@ -16,6 +16,13 @@
       <point x="603" y="528"/>
       <point x="536" y="483"/>
     </contour>
-    <component base="l.sc"/>
+    <contour>
+      <point x="30" y="0" type="line"/>
+      <point x="794" y="0" type="line"/>
+      <point x="831" y="204" type="line"/>
+      <point x="354" y="204" type="line"/>
+      <point x="422" y="625" type="line"/>
+      <point x="132" y="625" type="line"/>
+    </contour>
   </outline>
 </glyph>

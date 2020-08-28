@@ -24,6 +24,15 @@
       <point x="48" y="-95"/>
       <point x="38" y="-92" type="curve"/>
     </contour>
-    <component base="t.sc"/>
+    <contour>
+      <point x="389" y="490" type="line"/>
+      <point x="411" y="625" type="line"/>
+      <point x="66" y="625" type="line"/>
+      <point x="44" y="490" type="line"/>
+      <point x="136" y="490" type="line"/>
+      <point x="59" y="0" type="line"/>
+      <point x="221" y="0" type="line"/>
+      <point x="298" y="490" type="line"/>
+    </contour>
   </outline>
 </glyph>

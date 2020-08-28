@@ -9,6 +9,33 @@
       <point x="272" y="327" type="line"/>
       <point x="27" y="327" type="line"/>
     </contour>
-    <component base="o.superior" xOffset="8"/>
+    <contour>
+      <point x="18" y="527" type="curve" smooth="yes"/>
+      <point x="18" y="438"/>
+      <point x="37" y="362"/>
+      <point x="142" y="362" type="curve" smooth="yes"/>
+      <point x="247" y="362"/>
+      <point x="267" y="438"/>
+      <point x="267" y="527" type="curve" smooth="yes"/>
+      <point x="267" y="617"/>
+      <point x="247" y="689"/>
+      <point x="142" y="689" type="curve" smooth="yes"/>
+      <point x="37" y="689"/>
+      <point x="18" y="617"/>
+    </contour>
+    <contour>
+      <point x="134" y="527" type="curve" smooth="yes"/>
+      <point x="134" y="589"/>
+      <point x="134" y="593"/>
+      <point x="142" y="593" type="curve" smooth="yes"/>
+      <point x="149" y="593"/>
+      <point x="151" y="589"/>
+      <point x="151" y="527" type="curve" smooth="yes"/>
+      <point x="151" y="465"/>
+      <point x="149" y="459"/>
+      <point x="142" y="459" type="curve" smooth="yes"/>
+      <point x="134" y="459"/>
+      <point x="134" y="465"/>
+    </contour>
   </outline>
 </glyph>

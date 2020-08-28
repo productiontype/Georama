@@ -9,6 +9,19 @@
       <point x="482" y="649" type="line"/>
       <point x="53" y="649" type="line"/>
     </contour>
-    <component base="H" xOffset="5"/>
+    <contour>
+      <point x="-17" y="0" type="line"/>
+      <point x="145" y="0" type="line"/>
+      <point x="183" y="243" type="line"/>
+      <point x="221" y="243" type="line"/>
+      <point x="184" y="0" type="line"/>
+      <point x="345" y="0" type="line"/>
+      <point x="456" y="700" type="line"/>
+      <point x="294" y="700" type="line"/>
+      <point x="246" y="398" type="line"/>
+      <point x="208" y="398" type="line"/>
+      <point x="256" y="700" type="line"/>
+      <point x="94" y="700" type="line"/>
+    </contour>
   </outline>
 </glyph>

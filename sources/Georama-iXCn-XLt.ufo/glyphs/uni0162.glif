@@ -27,6 +27,15 @@
       <point x="9" y="-200"/>
       <point x="2" y="-195" type="curve"/>
     </contour>
-    <component base="T"/>
+    <contour>
+      <point x="281" y="681" type="line"/>
+      <point x="284" y="700" type="line"/>
+      <point x="72" y="700" type="line"/>
+      <point x="69" y="681" type="line"/>
+      <point x="165" y="681" type="line"/>
+      <point x="57" y="0" type="line"/>
+      <point x="76" y="0" type="line"/>
+      <point x="184" y="681" type="line"/>
+    </contour>
   </outline>
 </glyph>

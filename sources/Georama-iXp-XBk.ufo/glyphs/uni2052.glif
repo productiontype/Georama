@@ -9,7 +9,33 @@
       <point x="1061" y="700" type="line"/>
       <point x="803" y="700" type="line"/>
     </contour>
-    <component base="period" xOffset="99" yOffset="492"/>
-    <component base="period" xOffset="645"/>
+    <contour>
+      <point x="111" y="571" type="curve" smooth="yes"/>
+      <point x="111" y="512"/>
+      <point x="149" y="482"/>
+      <point x="245" y="482" type="curve" smooth="yes"/>
+      <point x="346" y="482"/>
+      <point x="415" y="518"/>
+      <point x="415" y="622" type="curve" smooth="yes"/>
+      <point x="415" y="681"/>
+      <point x="377" y="711"/>
+      <point x="282" y="711" type="curve" smooth="yes"/>
+      <point x="176" y="711"/>
+      <point x="111" y="670"/>
+    </contour>
+    <contour>
+      <point x="657" y="79" type="curve" smooth="yes"/>
+      <point x="657" y="20"/>
+      <point x="695" y="-10"/>
+      <point x="791" y="-10" type="curve" smooth="yes"/>
+      <point x="892" y="-10"/>
+      <point x="961" y="26"/>
+      <point x="961" y="130" type="curve" smooth="yes"/>
+      <point x="961" y="189"/>
+      <point x="923" y="219"/>
+      <point x="828" y="219" type="curve" smooth="yes"/>
+      <point x="722" y="219"/>
+      <point x="657" y="178"/>
+    </contour>
   </outline>
 </glyph>

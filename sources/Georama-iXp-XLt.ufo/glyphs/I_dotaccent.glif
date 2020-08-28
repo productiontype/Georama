@@ -17,6 +17,11 @@
       <point x="255" y="870"/>
       <point x="252" y="871"/>
     </contour>
-    <component base="I"/>
+    <contour>
+      <point x="93" y="0" type="line"/>
+      <point x="112" y="0" type="line"/>
+      <point x="223" y="700" type="line"/>
+      <point x="204" y="700" type="line"/>
+    </contour>
   </outline>
 </glyph>

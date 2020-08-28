@@ -3,13 +3,13 @@
 <plist version="1.0">
   <dict>
     <key>ascender</key>
-    <integer>968</integer>
+    <integer>790</integer>
     <key>capHeight</key>
     <integer>700</integer>
     <key>copyright</key>
     <string>Copyright 2020 The Georama Project Authors (http://github.com/productiontype/georama)</string>
     <key>descender</key>
-    <integer>-226</integer>
+    <integer>-210</integer>
     <key>familyName</key>
     <string>Georama</string>
     <key>guidelines</key>
@@ -43,12 +43,6 @@
     </array>
     <key>openTypeOS2Type</key>
     <array/>
-    <key>openTypeOS2TypoAscender</key>
-    <integer>968</integer>
-    <key>openTypeOS2TypoDescender</key>
-    <integer>-226</integer>
-    <key>openTypeOS2TypoLineGap</key>
-    <integer>0</integer>
     <key>openTypeOS2UnicodeRanges</key>
     <array>
       <integer>0</integer>
@@ -59,10 +53,6 @@
     </array>
     <key>openTypeOS2VendorID</key>
     <string>PROD</string>
-    <key>openTypeOS2WinAscent</key>
-    <integer>1184</integer>
-    <key>openTypeOS2WinDescent</key>
-    <integer>420</integer>
     <key>postscriptBlueValues</key>
     <array>
       <integer>-10</integer>
