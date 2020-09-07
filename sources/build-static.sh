@@ -30,23 +30,23 @@ fontmake -m GeoramaItalic-Static.designspace -i -o ttf --output-dir $staticpath 
 # Post process static ttf
 sh ./tools/post_generate_ttf.sh
 
-# # Generate webfonts
-# for i in $staticpath/*.ttf; do
-#     file_name=`basename $i`
-#     file_name="${file_name%.ttf}"
-#     echo "Export "$file_name.woff
+# Generate webfonts
+for i in $staticpath/*.ttf; do
+    file_name=`basename $i`
+    file_name="${file_name%.ttf}"
+    echo "Export "$file_name.woff
 
-#     sfnt2woff -m $webfont_metadata $i
-#     woff2_compress $i
-# done
+    sfnt2woff -m $webfont_metadata $i
+    woff2_compress $i
+done
 
-# for i in $staticpath/*.woff2; do
-#     mv $i $staticpath/../woff2
-# done
+for i in $staticpath/*.woff2; do
+    mv $i $staticpath/../woff2
+done
 
-# for i in $staticpath/*.woff; do
-#     mv $i $staticpath/../woff
-# done
+for i in $staticpath/*.woff; do
+    mv $i $staticpath/../woff
+done
 
 
 # Delete instances, we don't need them. If you need to look at instances, comment-out this line and repeat
