@@ -2,7 +2,6 @@
 
 
 from fontTools.ttLib import TTFont
-import unicodedata
 
 font_path = "../fonts/Variable/Georama[wdth,wght].ttf"
 print(f"Treating {font_path}")
