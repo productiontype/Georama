@@ -2,7 +2,6 @@ import sys
 import fontTools.ttLib
 from fontbakery.constants import PlatformID, WindowsEncodingID, WindowsLanguageID
 
-#file = "/Users/yanone/Projekte/Google/Onboarding/piazzolla/fonts/Piazzolla/variable/ttf/Piazzolla-Italic[opsz,wght].ttf"#sys.argv[1]
 file = sys.argv[1]
 ttFont = fontTools.ttLib.TTFont(file)
 
