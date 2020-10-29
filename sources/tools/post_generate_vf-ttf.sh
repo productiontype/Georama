@@ -30,7 +30,7 @@ done
 
 # Fix name table
 echo "Fix name table"
-python3 ./tools/fix-name-table-vf.py
+python ./tools/fix-name-table-vf.py
 
 # Remove unnecessary files
 rm $variablepath/*backup*.ttf
