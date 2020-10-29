@@ -30,6 +30,9 @@ fontmake -m GeoramaItalic-Static.designspace -i -o ttf --output-dir $staticpath 
 # Post process static ttf
 sh ./tools/post_generate_ttf.sh
 
+# Delete instances, we don't need them. If you need to look at instances, comment-out this line and repeat
+rm -r instances
+
 # Generate webfonts
 for i in $staticpath/*.ttf; do
     file_name=`basename $i`
@@ -49,5 +52,3 @@ for i in $staticpath/*.woff; do
 done
 
 
-# Delete instances, we don't need them. If you need to look at instances, comment-out this line and repeat
-rm -r instances
