@@ -16,7 +16,6 @@ for i in $variablepath/*.ttf; do
 
 	# Add GASP table
 	gftools fix-gasp $i --autofix
-	rm $variablepath/*backup*.ttf
 
 	# Fix PPEM rounding
 	echo "Setting $i PPEM rounding ..."
@@ -32,3 +31,6 @@ done
 # Fix name table
 echo "Fix name table"
 python3 ./tools/fix-name-table-vf.py
+
+# Remove unnecessary files
+rm $variablepath/*backup*.ttf
