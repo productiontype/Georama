@@ -26,6 +26,10 @@ for i in $variablepath/*.ttf; do
 	echo "Remove unwanted fvar instances"
 	python ./tools/removeUnwantedVFInstances.py $i
 
+	# Remove unwanted tables
+	echo "Remove unwanted tables"
+	gftools fix-unwanted-tables $i
+
 done
 
 # Fix name table
