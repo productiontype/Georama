@@ -1,0 +1,27 @@
+sources:
+  - Georama.designspace
+  - GeoramaItalic.designspace
+axisOrder:
+  - wdth
+  - wght
+  - ital
+includeSourceFixes: true
+buildVariable: true
+buildStatic: false
+buildOTF: false
+outputDir: "../fonts"
+# feel free to add more instances
+# instances:
+#   Georama[wdth,wght].ttf:
+#   - coordinates:
+#       wdth: 100
+#       wght: 400
+#   - coordinates:
+#       wdth: 100
+#       wght: 500
+#   - coordinates:
+#       wdth: 100
+#       wght: 600
+#   - coordinates:
+#       wdth: 100
+#       wght: 700
