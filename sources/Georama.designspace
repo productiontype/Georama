@@ -87,7 +87,7 @@
 
     <instances>
 
-        <instance familyname="Georama" filename="instances/Georama-ExtraCondensedThin.ufo" postscriptfontname="Georama-ExtraCondensedThin" stylename="ExtraCondensed Thin" stylemapfamilyname="Georama XCn Thin">
+        <!-- <instance familyname="Georama" filename="instances/Georama-ExtraCondensedThin.ufo" postscriptfontname="Georama-ExtraCondensedThin" stylename="ExtraCondensed Thin" stylemapfamilyname="Georama XCn Thin">
             <location>
                 <dimension name="weight" xvalue="0" />
                 <dimension name="width" xvalue="0" />
@@ -306,7 +306,7 @@
             </location>
             <kerning />
             <info />
-        </instance>
+        </instance> -->
 
 
         <instance familyname="Georama" filename="instances/Georama-Thin.ufo" postscriptfontname="Georama-Thin" stylename="Thin" stylemapfamilyname="Georama Thin">
@@ -382,7 +382,7 @@
             <info />
         </instance>
 
-
+<!-- 
         <instance familyname="Georama" filename="instances/Georama-ExpandedThin.ufo" postscriptfontname="Georama-ExpandedThin" stylename="Expanded Thin" stylemapfamilyname="Georama Ext Thin">
             <location>
                 <dimension name="weight" xvalue="0" />
@@ -528,7 +528,7 @@
             </location>
             <kerning />
             <info />
-        </instance>
+        </instance> -->
     </instances>
 
     <lib>

@@ -87,7 +87,7 @@
 
     <instances>
 
-        <instance familyname="Georama" filename="instances/Georama-ExtraCondensedThinItalic.ufo" postscriptfontname="Georama-ExtraCondensedThinItalic" stylename="ExtraCondensed Thin Italic" stylemapfamilyname="Georama XCn Thin" stylemapstylename="italic">
+        <!-- <instance familyname="Georama" filename="instances/Georama-ExtraCondensedThinItalic.ufo" postscriptfontname="Georama-ExtraCondensedThinItalic" stylename="ExtraCondensed Thin Italic" stylemapfamilyname="Georama XCn Thin" stylemapstylename="italic">
             <location>
                 <dimension name="weight" xvalue="0" />
                 <dimension name="width" xvalue="0" />
@@ -304,7 +304,8 @@
             </location>
             <kerning />
             <info />
-        </instance>
+        </instance> -->
+
 
         <instance familyname="Georama" filename="instances/Georama-ThinItalic.ufo" postscriptfontname="Georama-ThinItalic" stylename="Thin Italic" stylemapfamilyname="Georama Thin" stylemapstylename="italic">
             <location>
@@ -379,7 +380,8 @@
             <info />
         </instance>
 
-        <instance familyname="Georama" filename="instances/Georama-ExpandedThinItalic.ufo" postscriptfontname="Georama-ExpandedThinItalic" stylename="Expanded Thin Italic" stylemapfamilyname="Georama Ext Thin" stylemapstylename="italic">
+
+        <!-- <instance familyname="Georama" filename="instances/Georama-ExpandedThinItalic.ufo" postscriptfontname="Georama-ExpandedThinItalic" stylename="Expanded Thin Italic" stylemapfamilyname="Georama Ext Thin" stylemapstylename="italic">
             <location>
                 <dimension name="weight" xvalue="0" />
                 <dimension name="width" xvalue="700" />
@@ -523,7 +525,7 @@
             </location>
             <kerning />
             <info />
-        </instance>
+        </instance> -->
     </instances>
 
     <lib>
