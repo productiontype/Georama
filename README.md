@@ -20,4 +20,4 @@ To contribute ideas and feedback, see [github.com/productiontype/georama](https:
 Build Instructions
 ------------------
 
-To build the fonts run `sh build.sh` under /sources/ – see the notes in [build.sh](https://github.com/productiontype/georama/sources/build.sh).
+To build the fonts run `gftools builder sources/builder.yaml`.
